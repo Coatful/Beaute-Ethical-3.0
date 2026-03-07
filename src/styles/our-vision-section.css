@@ -1,0 +1,91 @@
+/* Section height = scroll distance for the animation */
+.our-vision-section {
+  height: 300vh;
+  position: relative;
+}
+
+/* Overlay: sits sticky on top of the canvas, left half of viewport */
+.our-vision-overlay {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  /* Pull it up so it sits on top of the already-sticky canvas */
+  margin-top: -100vh;
+  display: flex;
+  align-items: center;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.our-vision-text-panel {
+  max-width: 480px;
+  margin-left: clamp(2rem, 8vw, 8rem);
+  padding: 2rem;
+  pointer-events: auto;
+  /* Frosted glass panel so text is readable over any video */
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 8px;
+  border: 1px solid rgba(123, 184, 212, 0.25);
+}
+
+.our-vision-accent-line {
+  width: 40px;
+  height: 2px;
+  background: var(--color-accent);
+  margin-bottom: 1.5rem;
+}
+
+.our-vision-heading {
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  color: var(--color-charcoal);
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
+/* Container sized by the first paragraph */
+.our-vision-parts {
+  position: relative;
+}
+
+.our-vision-part {
+  font-size: clamp(0.875rem, 1.2vw, 1rem);
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--color-text);
+  transition: opacity 0.3s ease;
+}
+
+/* Second part sits on top of first */
+.our-vision-part--abs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .our-vision-section {
+    height: auto;
+    min-height: 100vh;
+  }
+  .our-vision-overlay {
+    position: static;
+    height: auto;
+    margin-top: 0;
+    padding: 3rem 1.5rem;
+    background: var(--color-cream);
+  }
+  .our-vision-text-panel {
+    margin-left: 0;
+    max-width: 100%;
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    border: none;
+    border-radius: 0;
+  }
+}

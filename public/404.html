@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      // GitHub Pages SPA redirect: store the path AFTER the repo base and redirect to index.html
+      var l = window.location;
+      var segments = l.pathname.split('/');
+      // segments: ['', 'Beaute-Ethical-3.0', 'catalog', 'ronas']
+      // slice(0,2) → repo root; slice(2) → path after base
+      var afterBase = segments.slice(2).join('/');
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        segments.slice(0, 2).join('/') +
+        '/?p=' + encodeURIComponent(afterBase + l.search) +
+        (l.hash || '')
+      );
+    </script>
+  </head>
+  <body></body>
+</html>

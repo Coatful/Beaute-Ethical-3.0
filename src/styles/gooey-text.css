@@ -1,0 +1,24 @@
+.gooey-container {
+  position: relative;
+}
+
+.gooey-filter-svg {
+  position: absolute;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+.gooey-texts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gooey-text {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+  user-select: none;
+  white-space: nowrap;
+}

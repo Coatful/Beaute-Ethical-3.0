@@ -1,0 +1,199 @@
+.scroll-story {
+  position: relative;
+}
+
+/* ── Canvas anchor ──────────────────────────────────────────────────────────
+   height: 0 means this element takes no document-flow space.
+   The canvas inside is position: absolute so it sits visually behind text
+   for the full scroll story without pushing anything down.
+────────────────────────────────────────────────────────────────────────── */
+.story-canvas-anchor {
+  position: sticky;
+  top: 0;
+  height: 0;
+  z-index: 0;
+}
+
+.story-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* ── Hero portion ─────────────────────────────────────────────────────────── */
+.hero-portion {
+  position: relative;
+}
+
+/* Sticky text panel covers viewport with dark gradient so text is readable */
+.hero-text-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.15) 0%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+}
+
+.hero-content {
+  text-align: center;
+  color: #fff;
+  padding: 2rem;
+  pointer-events: auto;
+  transition: opacity 0.2s ease;
+}
+
+/* Gooey hero title */
+.hero-gooey {
+  width: 100%;
+  height: clamp(3.5rem, 7vw, 6rem);
+  margin-bottom: 1rem;
+}
+
+.hero-gooey .gooey-texts {
+  height: 100%;
+}
+
+.hero-gooey-text {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 2vw, 1.4rem);
+  font-weight: 300;
+  letter-spacing: 0.3em;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.85), 0 1px 4px rgba(0,0,0,0.7);
+  margin-bottom: 2.5rem;
+  color: var(--color-gold-light);
+  text-transform: uppercase;
+}
+
+.hero-cta {
+  display: inline-block;
+  padding: 0.9rem 2.5rem;
+  border: 1px solid var(--color-gold-light);
+  color: var(--color-gold-light);
+  text-decoration: none;
+  font-size: 0.875rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  transition: all var(--transition-fast);
+}
+
+.hero-cta:hover {
+  background: var(--color-gold);
+  border-color: var(--color-gold);
+  color: #fff;
+}
+
+/* ── Vision portion ───────────────────────────────────────────────────────── */
+.vision-portion {
+  position: relative;
+}
+
+/* Sticky text — appears naturally once we scroll into vision-portion */
+.vision-text-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.vision-text-panel {
+  max-width: 480px;
+  margin-left: clamp(2rem, 8vw, 8rem);
+  padding: 2rem;
+  pointer-events: auto;
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 8px;
+  border: 1px solid rgba(123, 184, 212, 0.25);
+}
+
+.vision-accent-line {
+  width: 40px;
+  height: 2px;
+  background: var(--color-accent);
+  margin-bottom: 1.5rem;
+}
+
+.vision-heading {
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  color: var(--color-charcoal);
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
+.vision-parts {
+  position: relative;
+}
+
+.vision-part {
+  font-size: clamp(0.875rem, 1.2vw, 1rem);
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--color-text);
+  transition: opacity 0.3s ease;
+}
+
+.vision-part--abs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+/* ── Mobile ───────────────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .hero-text-sticky {
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.2) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+  }
+
+  .vision-portion {
+    height: auto !important;
+    min-height: 100vh;
+  }
+
+  .vision-text-sticky {
+    position: static;
+    height: auto;
+    padding: 3rem 1.5rem;
+    background: var(--color-cream);
+    opacity: 1 !important;
+  }
+
+  .vision-text-panel {
+    margin-left: 0;
+    max-width: 100%;
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    border: none;
+    border-radius: 0;
+  }
+}

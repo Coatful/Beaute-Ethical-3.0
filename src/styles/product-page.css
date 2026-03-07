@@ -1,0 +1,120 @@
+.product-page {
+  min-height: 100vh;
+  padding-top: var(--nav-height);
+  background: var(--color-warm-white);
+}
+
+.product-page-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2.5rem 6rem;
+}
+
+.product-breadcrumb {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: 2.5rem;
+  letter-spacing: 0.05em;
+}
+
+.product-breadcrumb a {
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.product-breadcrumb a:hover {
+  color: var(--color-gold);
+}
+
+.product-not-found {
+  padding: 5rem;
+  text-align: center;
+}
+
+.product-not-found a {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--color-gold);
+  text-decoration: none;
+}
+
+.product-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5rem;
+  align-items: start;
+}
+
+.product-image-wrap {
+  background: var(--color-cream);
+  border-radius: 4px;
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+}
+
+.product-image-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 2rem;
+}
+
+.product-brand-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-gold);
+  margin-bottom: 0.75rem;
+}
+
+.product-name {
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-weight: 300;
+  color: var(--color-charcoal);
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+.product-line-label {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1.5rem;
+}
+
+.product-divider {
+  width: 100%;
+  height: 1px;
+  background: var(--color-border);
+  margin-bottom: 2rem;
+}
+
+.product-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.product-field dt {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-gold-dark);
+  margin-bottom: 0.4rem;
+}
+
+.product-field dd {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+@media (max-width: 768px) {
+  .product-layout {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+  .product-page-inner {
+    padding: 2rem 1.25rem 4rem;
+  }
+}

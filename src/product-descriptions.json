@@ -1,0 +1,2287 @@
+{
+  "generated_at": "2026-03-07T15:47:28.409Z",
+  "total_products": 77,
+  "counts_by_brand": {
+    "RONAS": 12,
+    "MERIKIT": 32,
+    "OR'JADE": 9,
+    "B'ETHIQUE": 24
+  },
+  "counts_by_product_line": {
+    "GOLD LINE": 2,
+    "PROTECTION LINE": 4,
+    "STEM CELL LINE": 6,
+    "TOX LINE": 2,
+    "AC INFUSION LINE": 2,
+    "AMPOULE LINE": 20,
+    "AQUA MEMORIZE LINE": 3,
+    "CALMING LINE": 3,
+    "CLARITY LINE": 3,
+    "CLEANSING LINE": 2,
+    "DETO BUBBLE LINE": 1,
+    "EYE CREAM": 1,
+    "MASSAGE CARE LINE": 2,
+    "PEELING LINE": 1,
+    "SUPER MOISTURE LINE": 5,
+    "VITA-C LINE": 3,
+    "BODY CARE LINE": 1,
+    "COLLAGEN LINE": 3,
+    "FAIRNESS BRIGHTENING MESO LINE": 1,
+    "MODELING MASK LINE": 7,
+    "PREMIUM MICRO ESSENCE HYALURONIC LINE": 1,
+    "SEAWEED MASK LINE": 1,
+    "SILK MASK LINE": 1,
+    "ULTRA LIFTING LINE": 1,
+    "WATER MESO-THERAPY LINE": 1
+  },
+  "products": {
+    "golden-time-expert-ampoule": {
+      "brand": "RONAS",
+      "category": "GOLD LINE",
+      "name": "Golden Time Expert Ampoule",
+      "page_title": "Golden Time Expert Ampoule",
+      "product_line": "GOLD LINE",
+      "slug": "golden-time-expert-ampoule",
+      "source_file": "Golden Time Expert Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Golden glow ampoule for smooth and moisturized skin. This anti-wrinkle ampoule nourishes, firms, and revitalizes the skin with 24K (99.9%) gold capsules for smooth skin.",
+          "zh": "金色光泽安瓶，令肌肤光滑滋润。这款抗皱安瓶含有24K（99.9%）金胶囊，滋养、紧致并焕活肌肤，使肌肤光滑。"
+        },
+        "skin_type": {
+          "en": "All skin types, dry and dull skin, loose skin",
+          "zh": "所有肤质，干燥暗沉肌肤，松弛肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Gold – Skin detoxing\n• MULTIBERRY extract – Helps firm and refresh the skin\n• Panthenol – Nourishing and revitalizing\n• Trehalose – Protects cell membrane for moisture retention in the skin\nRoyal jelly extract – Skin conditioning\n• Adenosine – Anti-wrinkle effect\n• Tocopheryl Acetate – Protects the skin and retains moisture, skin conditioning",
+          "zh": "黄金 — 肌肤排毒\n多莓果提取物 — 有助于紧致和焕新肌肤\n泛醇 — 滋养和焕活\n海藻糖 — 保护细胞膜，保持肌肤水分\n蜂王浆提取物 — 肌肤调理\n腺苷 — 抗皱效果\n醋酸生育酚 — 保护肌肤并保持水分，调理肌肤"
+        },
+        "how_to_use": {
+          "en": "After the toner, apply a suitable amount on a cotton pad and wipe the face. Pat to absorb.",
+          "zh": "使用爽肤水后，取适量安瓶于化妆棉上，擦拭面部，并轻拍至吸收。"
+        },
+        "content": {
+          "en": "47 ml / 1.6 oz",
+          "zh": "47 毫升 / 1.6 盎司"
+        }
+      }
+    },
+    "golden-time-expert-cream": {
+      "brand": "RONAS",
+      "category": "GOLD LINE",
+      "name": "Golden Time Expert Cream",
+      "page_title": "Golden Time Expert Cream",
+      "product_line": "GOLD LINE",
+      "slug": "golden-time-expert-cream",
+      "source_file": "Golden Time Expert Cream.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Golden glow cream for smooth and moisturized skin. This anti-wrinkle cream contains 24K(99.9%) gold and royal jelly extract to firm and revitalize the skin and give glow to the skin for firm and glowing skin.",
+          "zh": "金色光泽面霜，令肌肤光滑滋润。这款抗皱面霜含有24K（99.9%）黄金和蜂王浆提取物，可紧致并焕活肌肤，使肌肤紧致有光泽。"
+        },
+        "skin_type": {
+          "en": "Aging skin, dry skin",
+          "zh": "老化肌肤，干性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Gold – Skin detoxing\n• Royal jelly extract – Skin conditioning\n• Trehalose – Protects cell membrane for moisture retention in the skin\n• MULTIBERRY extract – Helps firm and refresh the skin\n• Panthenol – Nourishing and revitalizing\n• Adenosine – Anti-wrinkle effect\n• Tocopheryl Acetate – Protects the skin and retains moisture, skin conditioning",
+          "zh": "黄金 — 肌肤排毒\n蜂王浆提取物 — 肌肤调理\n海藻糖 — 保护细胞膜，保持肌肤水分\n多莓果提取物 — 有助于紧致和焕新肌肤\n泛醇 — 滋养和焕活\n腺苷 — 抗皱效果\n醋酸生育酚 — 保护肌肤并保持水分，调理肌肤"
+        },
+        "how_to_use": {
+          "en": "After absorbing the Toner and Ampoule, apply a suitable amount of cream all over the face. Massage gently. (Use a small amount of cream as it naturally brightens and adds glow to the skin.)",
+          "zh": "使用爽肤水和安瓶后，取适量面霜涂抹于整个面部，轻柔按摩。（使用少量面霜即可，自然提亮并增加肌肤光泽。）"
+        },
+        "content": {
+          "en": "100 ml",
+          "zh": "100毫升"
+        }
+      }
+    },
+    "cc-cream-spf-38-pa": {
+      "brand": "RONAS",
+      "category": "PROTECTION LINE",
+      "name": "CC Cream(SPF 38 PA+++)",
+      "page_title": "CC Cream SPF 38 PA+++",
+      "product_line": "PROTECTION LINE",
+      "slug": "cc-cream-spf-38-pa",
+      "source_file": "CC Cream(SPF 38 PA+++).html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This brightening, anti-wrinkle, UV-protection CC cream contains KFDA-approved niacinamide that brightens the skin tone without darkening.",
+          "zh": "这款美白、抗皱、防紫外线的CC霜含有韩国食品药品安全处认证的烟酰胺，可在不变暗的情况下提亮肤色。"
+        },
+        "skin_type": {
+          "en": "Hyperpigmented skin, dry skin, trouble-prone skin",
+          "zh": "色素沉着肌肤、干性肌肤、问题性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Adenosine – Firming (anti-wrinkle ingredient)\n• Niacinamide – Brightening skin tone\n• Sodium Hyaluronate – Moisturizing, moisture retention\n• Aloe Vera Juice – Soothing, astringent, moisturizing\n• Hydrolyzed Collagen – High skin-affinity, moisturizing",
+          "zh": "腺苷 — 紧致（抗皱成分）\n烟酰胺 — 提亮肤色\n透明质酸钠 — 保湿、锁水\n芦荟汁 — 舒缓、收敛、保湿\n水解胶原蛋白 — 高亲肤性、保湿"
+        },
+        "how_to_use": {
+          "en": "After skincare procedure or routine, apply a suitable amount on the face. Pat lightly to absorb.",
+          "zh": "护肤程序后，取适量涂抹于面部，轻拍至吸收。"
+        },
+        "content": {
+          "en": "50 ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "waterfull-green-sun-cream": {
+      "brand": "RONAS",
+      "category": "PROTECTION LINE",
+      "name": "Waterfull Green Sun Cream",
+      "page_title": "Waterfull Green Sun Cream",
+      "product_line": "PROTECTION LINE",
+      "slug": "waterfull-green-sun-cream",
+      "source_file": "Waterfull Green Sun Cream.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This moisturizing and brightening sun cream reduces the visibility of pores, wrinkles, and age spots while offering broad-spectrum UVA/UVB protection. It contains skin-soothing and antioxidant-rich ingredients that improve elasticity and restore the skin’s moisture balance without leaving a white cast.",
+          "zh": "这款保湿亮肤防晒霜可减少毛孔、皱纹和色斑的可见度，同时提供广谱UVA/UVB防护。富含舒缓和抗氧化成分，提升肌肤弹性并恢复水分平衡，不泛白。"
+        },
+        "skin_type": {
+          "en": "All skin types, including sensitive and irritated skin.",
+          "zh": "所有肤质，包括敏感和易刺激肌肤。"
+        },
+        "main_ingredients": {
+          "en": "• Niacinamide – Moisturizing, brightening, reduces pores, wrinkles, and age spots\n• Tinosorb S – Broad-spectrum UVA protection, penetrates deep layers of the skin\n• Uvinul T150 – UVB filter, provides stable and effective protection\n• Tinosorb M – High-level protection against UVA and UVB rays\n• Adenosine – Anti-wrinkle, improves elasticity and skin tone\n• Plant Extracts (Houttuynia, Green Tea, Centella Asiatica) – Antioxidant, anti-inflammatory, soothes skin\n• Panthenol – Soothes and moisturizes skin, improves skin texture\n• Caprylic Triglyceride – Forms a protective moisture barrier\n• Peptide Complex – Stimulates collagen and elastin production, enhances elasticity",
+          "zh": "烟酰胺 — 保湿、美白，淡化毛孔、皱纹和色斑\nTinosorb S — 广谱UVA防护，深入肌肤底层\nUvinul T150 — 高效稳定的UVB防护\nTinosorb M — 高效UVA和UVB防护\n腺苷 — 抗皱，提升弹性与肤色\n植物提取物（鱼腥草、绿茶、积雪草）— 抗氧化、抗炎、舒缓肌肤\n泛醇 — 舒缓保湿，改善肌肤质感\n辛酸/癸酸甘油三酯 — 建立肌肤水分屏障\n多肽复合物 — 刺激胶原蛋白与弹性蛋白生成，提升肌肤弹性"
+        },
+        "how_to_use": {
+          "en": "Apply 1–2 ml of cream to the face along the massage lines as the final step in your routine.",
+          "zh": "在护肤程序最后一步，沿面部按摩线涂抹1–2毫升防晒霜。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "stem-cell-ampoule": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Ampoule",
+      "page_title": "Stem Cell Ampoule",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-ampoule",
+      "source_file": "Stem Cell Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Concentrated skincare ampoule in multi-layer liposome capsule. This ampoule protects, smoothes, and firms the skin by penetrating into the skin fast and effectively.",
+          "zh": "多层脂质体胶囊中的浓缩护肤安瓶。该安瓶能快速有效地渗透肌肤，保护、平滑并紧致肌肤。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedure or peeling or redness and trouble prone skin.",
+          "zh": "适用于激光治疗或换肤后，以及泛红和问题肌肤的舒缓和保湿。"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Pea Protein (stem cell activator): Revitalizing and skin barrier strengthening\n• Sodium Hyaluronate: Moisturizing and moisture retention\n• Green Tea Callus Culture Extract: Soothing and skin barrier strengthening\n• Soybean Placenta: Clarifying and skin barrier strengthening",
+          "zh": "水解豌豆蛋白（干细胞激活剂）：焕活和强化肌肤屏障\n透明质酸钠：保湿和锁水\n绿茶愈伤组织培养提取物：舒缓和强化肌肤屏障\n大豆胎盘：净化和强化肌肤屏障"
+        },
+        "how_to_use": {
+          "en": "After cleansing, apply a suitable amount all over the face and pat to absorb.",
+          "zh": "洁面后，取适量均匀涂抹于面部，轻拍至吸收。"
+        },
+        "content": {
+          "en": "1ml * 30EA",
+          "zh": "1毫升 * 30支"
+        }
+      }
+    },
+    "stem-cell-coconut-mask": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Coconut Mask",
+      "page_title": "Stem Cell Coconut Mask",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-coconut-mask",
+      "source_file": "Stem Cell Coconut Mask.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Bio-cellulose mask based on coconut culture.\nThe bio cellulose derived from coconut has skin-like\nprotein structure in a “3D network structure” that is\nhighly compatible with human skin, providing powerful\nmoisturization and nourishment for firmer skin.",
+          "zh": "基于椰子培养的生物纤维素面膜。椰子衍生的生物纤维素具有\n类似皮肤蛋白质的“3D网络结构”，与人体皮肤高度相容，\n提供强效保湿和营养，令肌肤更紧致。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedures, peeling,\nor for redness- and trouble-prone skin; suitable for\nsensitive skin.",
+          "zh": "激光术后、换肤或泛红和问题肌肤后舒缓保湿；敏感肌适用。"
+        },
+        "main_ingredients": {
+          "en": "• Adenosine: anti-wrinkle\n• Sodium hyaluronate: moisturizing & moisture retention\n· Green tea callus culture extract : Soothing and skin barrier strengthening\n• Coconut oil: soothing & powerful moisturization",
+          "zh": "腺苷：抗皱成分\n透明质酸钠：保湿与锁水\n绿茶胚胎组织培养提取物：舒缓与强化皮肤屏障\n椰子油：舒缓与强效滋润"
+        },
+        "how_to_use": {
+          "en": "After removing the felt layer and protective film, place\nthe mask on the face. Leave on for 20–30 minutes and remove.\nPat lightly to absorb any residual essence.",
+          "zh": "撕下面衬和保护膜后，将面膜敷于脸部。保持20–30分钟后取下，\n轻拍面部以促进剩余精华吸收。"
+        },
+        "content": {
+          "en": "30 g × 5ea",
+          "zh": "30g×5片"
+        }
+      }
+    },
+    "stem-cell-hydro-cream": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Hydro Cream",
+      "page_title": "Stem Cell Hydro Cream",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-hydro-cream",
+      "source_file": "Stem Cell Hydro Cream.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Firming and nourishing cream for normal and oily skin.\nThe stem cell activator and hyaluronic acid helps strengthen the skin barrier.\nIn addition to moisturizing, the squalan helps optimize the normal and oily skin.",
+          "zh": "适用于中性和油性肌肤的紧致滋养面霜。\n干细胞激活因子与透明质酸有助于强化肌肤屏障。\n除了保湿外，角鲨烷还能优化中性和油性肌肤状态。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedure or peeling or redness and trouble prone skin.",
+          "zh": "适用于激光治疗、换肤后或泛红及问题性肌肤的舒缓和保湿。"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Pea Protein (stem cell activator): Revitalizing and skin barrier strengthening\n• Centella Asiatica Extract: Soothing and anti-irritation\n• Mugwort Extract: Skin clarifying and moisturizing\n• Green Tea Callus Culture Extract: Soothing and skin barrier strengthening",
+          "zh": "水解豌豆蛋白（干细胞激活剂）：焕活肌肤并强化肌肤屏障\n积雪草提取物：舒缓并抗刺激\n艾草提取物：净化肌肤并保湿\n绿茶愈伤组织培养提取物：舒缓并强化肌肤屏障"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face and leave to absorb.",
+          "zh": "取适量均匀涂抹于整个面部，静待吸收。"
+        },
+        "content": {
+          "en": "Home 30ml / Bulk 100ml",
+          "zh": "家庭装30毫升 / 大容量装100毫升"
+        }
+      }
+    },
+    "stem-cell-serum": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Serum",
+      "page_title": "Stem Cell Serum",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-serum",
+      "source_file": "Stem Cell Serum.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "The callus culture extract enhances skin firmness, while hyaluronic acid and shea butter provide deep hydration and nourishment.",
+          "zh": "基于椰子培养的生物纤维素面膜。椰子衍生的生物纤维素具有\n类似皮肤蛋白质的“3D网络结构”，与人体皮肤高度相容，\n提供强效保湿和营养，令肌肤更紧致。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedure or peeling, or redness- and trouble-prone skin.",
+          "zh": "激光术后、换肤后或敏感泛红及问题肌肤的舒缓保湿。"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Pea Protein (stem cell activator) – Revitalizing and barrier strengthening\n• Licorice extract – Soothing and brightening effects\n• Portulaca extract – Soothing and moisturizing\n• Green tea callus culture extract – Soothing and barrier strengthening",
+          "zh": "水解豌豆蛋白（干细胞活化剂）—焕活并强化皮肤屏障\n甘草提取物—舒缓美白\n马齿苋提取物—舒缓保湿\n绿茶胚胎组织培养提取物—舒缓并强化屏障"
+        },
+        "how_to_use": {
+          "en": "After removing the felt layer and protective film, place\nthe mask on the face. Leave on for 20–30 minutes and remove.\nPat lightly to absorb any residual essence.",
+          "zh": "撕下面衬和保护膜后，将面膜敷于脸部。保持20–30分钟后取下，\n轻拍面部以促进剩余精华吸收。"
+        },
+        "content": {
+          "en": "200ml",
+          "zh": "200毫升"
+        }
+      }
+    },
+    "stem-cell-solution": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Solution",
+      "page_title": "Stem Cell Solution",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-solution",
+      "source_file": "Stem Cell Solution.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "With the plant placenta and pea-extracted stem cell activator, it protects and smoothes dry and rough skin, while the concentrated skincare ampoule in multi-layer liposome capsule firms the skin by penetrating into the skin fast and effectively.",
+          "zh": "含植物胎盘和豌豆提取的干细胞激活因子，可保护并平滑干燥粗糙的肌肤；多层脂质体胶囊中的浓缩护肤安瓶能快速有效地渗透肌肤，紧致肌肤。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedure or peeling or redness and trouble prone skin.",
+          "zh": "适用于激光治疗、换肤后或泛红及问题肌肤的舒缓与保湿。"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Pea Protein (stem cell activator): Revitalizing and skin barrier strengthening\n• Sodium Hyaluronate: Moisturizing and moisture retention\n• Green Tea Callus Culture Extract: Soothing and skin barrier strengthening\n• Soy Bean Placenta: Clarifying and skin barrier strengthening",
+          "zh": "水解豌豆蛋白（干细胞激活剂）：焕活并强化肌肤屏障\n透明质酸钠：保湿与锁水\n绿茶愈伤组织培养提取物：舒缓并强化肌肤屏障\n大豆胎盘：净化并强化肌肤屏障"
+        },
+        "how_to_use": {
+          "en": "As part of MTS protecture, apply a suitable amount and rub into the skin.",
+          "zh": "作为MTS护肤程序的一部分，取适量涂抹并按摩至吸收。"
+        },
+        "content": {
+          "en": "5ml × 10 vial",
+          "zh": "5毫升 × 10瓶"
+        }
+      }
+    },
+    "stem-cell-toner": {
+      "brand": "RONAS",
+      "category": "STEM CELL LINE",
+      "name": "Stem Cell Toner",
+      "page_title": "Stem Cell Toner",
+      "product_line": "STEM CELL LINE",
+      "slug": "stem-cell-toner",
+      "source_file": "Stem Cell Toner.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This nature-friendly skin toner soothes irritated skin and restores skin pH to maintain moisture balance in the skin.",
+          "zh": "这款亲肤爽肤水可舒缓敏感肌肤，并调节肌肤pH值，以维持水分平衡。"
+        },
+        "skin_type": {
+          "en": "Soothing and moisturizing after laser procedure or peeling or redness and trouble prone skin.",
+          "zh": "适用于激光治疗、换肤后或泛红及问题性肌肤的舒缓与保湿。"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Pea Protein (stem cell activator): Revitalizing and skin barrier strengthening\n• Rose Hip Oil: Soothing and moisturizing\n• Centella Asiatica Extract: Soothing and anti-irritation\n• Mugwort Extract: Skin clarifying and moisturizing\n• Green Tea Callus Culture Extract: Soothing and skin barrier strengthening",
+          "zh": "水解豌豆蛋白（干细胞激活剂）：焕活并强化肌肤屏障\n玫瑰果油：舒缓并保湿\n积雪草提取物：舒缓并抗刺激\n艾草提取物：净化肌肤并保湿\n绿茶愈伤组织培养提取物：舒缓并强化肌肤屏障"
+        },
+        "how_to_use": {
+          "en": "After cleansing, apply a suitable amount all over the face and pat to absorb.",
+          "zh": "洁面后，取适量均匀涂抹于面部并轻拍至吸收。"
+        },
+        "content": {
+          "en": "Bulk 500ml",
+          "zh": "大容量500毫升"
+        }
+      }
+    },
+    "tox-volume-cream": {
+      "brand": "RONAS",
+      "category": "TOX LINE",
+      "name": "Tox Volume cream",
+      "page_title": "Tox Volume Cream",
+      "product_line": "TOX LINE",
+      "slug": "tox-volume-cream",
+      "source_file": "Tox Volume cream.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This anti-wrinkle nourishing cream contains polysaccharide protein that protects the skin with moisturization and long-lasting firmness.",
+          "zh": "这款抗皱滋养面霜含有多糖蛋白，可为肌肤提供保湿和持久紧致的保护。"
+        },
+        "skin_type": {
+          "en": "Loose skin, dry skin",
+          "zh": "松弛肌肤、干性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• EPS SEAPILL (powerful moisturizing factor): Polysaccharide protein with moisturizing and firming effects\n• Phyco Juvenine G (Firming effect): Seaweed ingredient that helps improve sagging skin through vitamin A derivative\n• Tomato Callus Extract: Skin barrier strengthening\n• Adenosine: Anti-wrinkle (anti-wrinkle ingredient)",
+          "zh": "EPS SEAPILL（强效保湿因子）：具有保湿和紧致作用的多糖蛋白\nPhyco Juvenine G（紧致作用）：通过维生素A衍生物改善松弛肌肤的海藻成分\n番茄愈伤组织提取物：强化肌肤屏障\n腺苷：抗皱（抗皱成分）"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount of Tox Volume Fill Up Essence from the bottom toward the top of the face.",
+          "zh": "取适量Tox Volume Fill Up精华，由下往上涂抹于面部。"
+        },
+        "content": {
+          "en": "100ml",
+          "zh": "100毫升"
+        }
+      }
+    },
+    "tox-volume-fill-up-essence": {
+      "brand": "RONAS",
+      "category": "TOX LINE",
+      "name": "Tox Volume Fill Up Essence",
+      "page_title": "Tox Volume Fill Up Essence",
+      "product_line": "TOX LINE",
+      "slug": "tox-volume-fill-up-essence",
+      "source_file": "Tox Volume Fill Up Essence.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "The polysaccharide protein from planktons instantly reduce wrinkles and smooth rough skin.",
+          "zh": "浮游生物来源的多糖蛋白能迅速减少皱纹并柔滑粗糙肌肤。"
+        },
+        "skin_type": {
+          "en": "Loose skin, dry skin",
+          "zh": "松弛肌肤、干性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• EPS SEAPILL (powerful moisturizing factor): Polysaccharide protein with moisturizing and firming effects\n• Phyco Juvenine G (Firming effect): Seaweed ingredient that helps improve sagging skin through vitamin A derivative\n• Tomato Callus Extract: Skin barrier strengthening\n• Adenosin: Anti-wrinkle (anti-wrinkle ingredient)",
+          "zh": "EPS SEAPILL（强效保湿因子）：具有保湿和紧致作用的多糖蛋白\nPhyco Juvenine G（紧致作用）：通过维生素A衍生物改善松弛肌肤的海藻成分\n番茄愈伤组织提取物：强化肌肤屏障\n腺苷：抗皱（抗皱成分）"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount of Tox Volume Fill Up Essence from the bottom toward the top of the face.",
+          "zh": "取适量Tox Volume Fill Up精华，由下往上涂抹于面部。"
+        },
+        "content": {
+          "en": "10ml × 5EA",
+          "zh": "10毫升 × 5支"
+        }
+      }
+    },
+    "ac-infusion-mask": {
+      "brand": "MERIKIT",
+      "category": "AC INFUSION LINE",
+      "name": "AC INFUSION MASK",
+      "page_title": "AC Infusion Mask",
+      "product_line": "AC INFUSION LINE",
+      "slug": "ac-infusion-mask",
+      "source_file": "AC INFUSION MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This wash-off pack and mask refreshes and smoothes the skin. The EcoCert chamomile water revitalizes the sensitive skin.",
+          "zh": "这款免洗面膜可清爽平滑肌肤。EcoCert认证的洋甘菊水可舒缓敏感肌肤。"
+        },
+        "skin_type": {
+          "en": "Acne-prone skin, oily skin",
+          "zh": "痘痘肌肤，油性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Chamaecyparis obtusa water – Skin protection and activation\n• Green tea extract – Anti-aging\n• Kaolin – Adsorbs sebum and impurities",
+          "zh": "扁柏水 — 保护并激活肌肤\n绿茶提取物 — 抗老化\n高岭土 — 吸附皮脂和杂质"
+        },
+        "how_to_use": {
+          "en": "1–2 times a week, apply a suitable amount gently, avoiding the eyes and mouth. After 10–20 minutes, wash off with warm water and begin skincare.",
+          "zh": "每周使用1–2次，取适量避开眼部和嘴唇轻柔涂抹，10–20分钟后用温水清洗并进行后续护肤。"
+        },
+        "content": {
+          "en": "300ml",
+          "zh": "300毫升"
+        }
+      }
+    },
+    "ac-infusion-serum": {
+      "brand": "MERIKIT",
+      "category": "AC INFUSION LINE",
+      "name": "AC INFUSION SERUM",
+      "page_title": "AC Infusion Serum",
+      "product_line": "AC INFUSION LINE",
+      "slug": "ac-infusion-serum",
+      "source_file": "AC INFUSION SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "The EcoCert chamomile water revitalizes sensitive skin while β-glucan retains moisture in the skin to keep it healthy.",
+          "zh": "EcoCert认证的洋甘菊水可焕活敏感肌肤，β-葡聚糖帮助肌肤保持水分，维持健康状态。"
+        },
+        "skin_type": {
+          "en": "Acne-prone skin, oily skin",
+          "zh": "痘痘肌肤，油性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Chamomile water – Antioxidant and anti-inflammatory (EcoCert)\n• Portulaca oleracea extract – Hydrates dry skin\n• Viscum album extract – Protects and revitalizes sensitive skin",
+          "zh": "洋甘菊水 — 抗氧化与抗炎作用（EcoCert认证）\n马齿苋提取物 — 滋润干燥肌肤\n槲寄生提取物 — 保护并焕活敏感肌肤"
+        },
+        "how_to_use": {
+          "en": "After using Toner, apply a suitable amount all over the face.",
+          "zh": "使用爽肤水后，取适量涂抹于整个面部。"
+        },
+        "content": {
+          "en": "200ml",
+          "zh": "200毫升"
+        }
+      }
+    },
+    "multi-campo-ampoule": {
+      "brand": "MERIKIT",
+      "category": "AMPOULE LINE",
+      "name": "MULTI CAMPO AMPOULE",
+      "page_title": "Multi Campo Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "multi-campo-ampoule",
+      "source_file": "MULTI CAMPO AMPOULE.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This concentrated ampoule for trouble-prone and oily skin contains natural essential oils for sebum control.",
+          "zh": "这款浓缩安瓶专为问题性和油性肌肤设计，含天然精油，有助于调节皮脂分泌。"
+        },
+        "skin_type": {
+          "en": "Trouble-prone or acne skin. Recommended for loose pore, excessive sebum, and oily skin.",
+          "zh": "问题肌肤或痘痘肌。适用于毛孔粗大、皮脂分泌旺盛、油性肌肤。"
+        },
+        "main_ingredients": {
+          "en": "• Farnesol – Helps prevent skin trouble\n• Lavender oil – Helps improve and manage oily and trouble-prone skin\n• Resveratrol – Antioxidant from grape, raspberry, and cranberry\n• White willow bark extract – Softens dead skin and soothes skin",
+          "zh": "法呢醇 — 有助于预防肌肤问题\n薰衣草精油 — 改善油性及问题肌肤\n白藜芦醇 — 来源于葡萄、覆盆子和蔓越莓，具抗氧化作用\n白柳树皮提取物 — 去除角质，舒缓问题肌肤"
+        },
+        "how_to_use": {
+          "en": "• For home skincare: Morning and evening, after using Toner, apply a suitable amount all over the face.\n• For aesthetic equipment: Use it for Skin Scrubber Lift Mode or Ionton Precis.",
+          "zh": "家庭护理：早晚使用爽肤水后，取适量涂抹全脸。\n美容仪器使用：适用于皮肤提拉模式或导入模式。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "multi-hydro-ampoule": {
+      "brand": "MERIKIT",
+      "category": "AMPOULE LINE",
+      "name": "MULTI HYDRO AMPOULE",
+      "page_title": "Multi Hydro Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "multi-hydro-ampoule",
+      "source_file": "MULTI HYDRO AMPOULE.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This ampoule was designed to help improve moisture retention in dry skin based on plant moisturizing factors such as oat extract.",
+          "zh": "这款安瓶旨在通过燕麦提取物等植物保湿因子，提升干性肌肤的水分保持能力。"
+        },
+        "skin_type": {
+          "en": "Dry or sensitive skin. Effective for relieving dryness in cold weather.",
+          "zh": "干性或敏感肌肤。适合缓解寒冷天气带来的干燥问题。"
+        },
+        "main_ingredients": {
+          "en": "• Oat kernel extract – Soothing, moisturizing\n• Prickly pear extract – Protects sensitive skin and maintains healthy skin",
+          "zh": "燕麦仁提取物 — 舒缓，保湿\n仙人掌果提取物 — 保护敏感肌肤，维持肌肤健康"
+        },
+        "how_to_use": {
+          "en": "• For home skincare: Morning and evening, after using Toner, apply a suitable amount all over the face.\n• For aesthetic equipment: Use it for Skin Scrubber Lift Mode or Ionton Precis.",
+          "zh": "家庭护理：早晚使用爽肤水后，取适量涂抹全脸。\n美容仪器使用：适用于皮肤提拉模式或导入模式。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "multi-vitamin-ampoule": {
+      "brand": "MERIKIT",
+      "category": "AMPOULE LINE",
+      "name": "MULTI VITAMIN AMPOULE",
+      "page_title": "Multi Vitamin Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "multi-vitamin-ampoule",
+      "source_file": "MULTI VITAMIN AMPOULE.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This brightening ampoule contains vitamin C and arbutin for clear and bright skin tone while the pomegranate extract nourishes and hydrates the skin.",
+          "zh": "这款美白安瓶含有维生素C和熊果苷，有助于提亮肤色；石榴提取物则滋养并保湿肌肤。"
+        },
+        "skin_type": {
+          "en": "Dull skin, uneven skin tone, pigmented skin",
+          "zh": "暗沉肌肤，肤色不均，有色斑肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Vitamin C – Clarifies the skin tone\n• Arbutin – Improves the skin tone (brightening ingredient)\n• Pomegranate extract – Helps reduce dead skin cell, astringent with pore-tightening effect, firming",
+          "zh": "维生素C — 提亮肤色\n熊果苷 — 美白成分，改善肤色\n石榴提取物 — 清除老废角质，紧致毛孔并有紧致作用"
+        },
+        "how_to_use": {
+          "en": "• For home skincare: Morning and evening, after using Toner, apply a suitable amount all over the face.\n• For aesthetic equipment: Use it for SKin Scrubber Lift Mode or Ionton Precis.",
+          "zh": "家庭护理：早晚使用爽肤水后，取适量涂抹全脸。\n美容仪器使用：适用于皮肤提拉模式或导入模式。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "multi-peptide-ampoule": {
+      "brand": "MERIKIT",
+      "category": "AMPOULE LINE",
+      "name": "MULTI-PEPTIDE AMPOULE",
+      "page_title": "Multi-peptide Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "multi-peptide-ampoule",
+      "source_file": "MULTI-PEPTIDE AMPOULE.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This anti-wrinkle ampoule contains peptides and plant-derived hydrolyzed collagen for moisturizing and firming the skin.",
+          "zh": "这款抗皱安瓶含有肽和植物性水解胶原蛋白，有助于滋润并紧致肌肤。"
+        },
+        "skin_type": {
+          "en": "Loose skin, wrinkles. Use after peeling or laser procedure for regenerating new skin.",
+          "zh": "松弛肌肤、有皱纹肌肤。适用于换肤或激光术后，帮助肌肤再生。"
+        },
+        "main_ingredients": {
+          "en": "• Peptide – Helps produce collagen. Softens and firms the skin with anti-aging effects.\n• Hydrolyzed extensin – Plant collagen with anti-wrinkle and firming effects.\n• rh-Oligopeptide-1 (EGF) – Improves skin recovery.",
+          "zh": "肽 — 促进胶原蛋白生成，柔嫩紧致肌肤，具有抗衰老效果\n水解延伸素 — 植物胶原蛋白，具有抗皱和紧致作用\n寡肽-1（EGF） — 促进肌肤修复"
+        },
+        "how_to_use": {
+          "en": "• For home skincare: Morning and evening, after using Toner, apply a suitable amount all over the face.\n• For aesthetic equipment: Use it for SKin Scrubber Lift Mode or Ionton Precis.",
+          "zh": "家庭护理：早晚使用爽肤水后，取适量涂抹于全脸。\n美容仪器使用：适用于皮肤提拉或导入程序。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "aqua-memorize-cream": {
+      "brand": "MERIKIT",
+      "category": "AQUA MEMORIZE LINE",
+      "name": "AQUA MEMORIZE CREAM",
+      "page_title": "Aqua Memorize Cream",
+      "product_line": "AQUA MEMORIZE LINE",
+      "slug": "aqua-memorize-cream",
+      "source_file": "AQUA MEMORIZE CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This ultra-moisturizing cream improves moisture retention in the skin with refreshing finish based on panthenol and betaine.",
+          "zh": "这款超保湿面霜以泛醇和甜菜碱为基础，提升肌肤锁水力，带来清爽润泽的使用感。"
+        },
+        "skin_type": {
+          "en": "All skin types, Dry and oily skin",
+          "zh": "所有肤质，干性与油性肌肤适用"
+        },
+        "main_ingredients": {
+          "en": "• MultiEx BSASM Plus – 7 plant extract complex, soothing, moisturizing\n• Betaine – Moisturizing\n• Biosaccharide gum – Moisturizing, soothing\n• Sodium hyaluronate – Moisturizing, moisture retention",
+          "zh": "MultiEx BSASM Plus — 7种植物复合提取物，舒缓保湿\n甜菜碱 — 保湿\n生物糖胶 — 保湿、舒缓\n透明质酸钠 — 保湿、锁水"
+        },
+        "how_to_use": {
+          "en": "After Serum, apply a suitable amount all over the face. Pat lightly to absorb.",
+          "zh": "使用精华后，取适量均匀涂抹于脸部，轻拍至吸收。"
+        },
+        "content": {
+          "en": "210ml",
+          "zh": "210毫升"
+        }
+      }
+    },
+    "aqua-memorize-mask": {
+      "brand": "MERIKIT",
+      "category": "AQUA MEMORIZE LINE",
+      "name": "AQUA MEMORIZE MASK",
+      "page_title": "Aqua Memorize Mask",
+      "product_line": "AQUA MEMORIZE LINE",
+      "slug": "aqua-memorize-mask",
+      "source_file": "AQUA MEMORIZE MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "With a shape memory system to help restore firmness in the skin, this moisturizing and firming mask contains betaine and panthenol for long-lasting moisturization while mannan and shea butter firm and moisturize the skin.",
+          "zh": "采用形状记忆系统，有助于恢复肌肤紧致度。这款保湿紧致面膜含有甜菜碱和泛醇，提供持久滋润，同时由甘露聚糖和乳木果脂紧致并滋养肌肤。"
+        },
+        "skin_type": {
+          "en": "All skin types, Dry and oily skin",
+          "zh": "所有肤质，干性与油性肌肤适用"
+        },
+        "main_ingredients": {
+          "en": "• Panthenol – Moisturizing, anti-acne (Vitamin B5)\n• Betaine – Moisturizing, gentle\n• Biosaccharide gum – Moisturizing, soothing\n• Sodium hyaluronate – Moisture retention\n• β-glucan – Powerful moisturizing agent\n• Multiex BSASM – Soothing, anti-irritation\n• Mannan, shea butter – Firming and moisturizing",
+          "zh": "泛醇（维生素B5）— 保湿、抗痘\n甜菜碱 — 温和保湿\n生物糖胶 — 保湿、舒缓\n透明质酸钠 — 锁水保湿\nβ-葡聚糖 — 强效保湿成分\nMultiex BSASM — 舒缓抗刺激\n甘露聚糖、乳木果脂 — 紧致与滋润"
+        },
+        "how_to_use": {
+          "en": "Apply all over the face. Leave for 15–20 minutes.\nTo use it as a sleeping pack: after cleansing in the evening, apply a suitable amount from the center to the outside of the face.",
+          "zh": "将面膜均匀涂抹于整个面部，敷15–20分钟后洗净。\n也可作为晚间睡眠面膜使用：洁面后从面部中心向外涂抹适量。"
+        },
+        "content": {
+          "en": "300ml",
+          "zh": "300毫升"
+        }
+      }
+    },
+    "aqua-memorize-skin": {
+      "brand": "MERIKIT",
+      "category": "AQUA MEMORIZE LINE",
+      "name": "AQUA MEMORIZE SKIN",
+      "page_title": "Aqua Memorize Toner",
+      "product_line": "AQUA MEMORIZE LINE",
+      "slug": "aqua-memorize-skin",
+      "source_file": "AQUA MEMORIZE SKIN.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This clean water-type toner contains betaine and sodium hyaluronate to maintain hydration in the skin with refreshing finish.",
+          "zh": "这款清爽型水质爽肤水含有甜菜碱和透明质酸钠，帮助肌肤维持水分，带来清新使用感。"
+        },
+        "skin_type": {
+          "en": "All skin types. Dry and oily skin",
+          "zh": "所有肤质，干性与油性肌肤适用"
+        },
+        "main_ingredients": {
+          "en": "• MultiEx BSASM Plus – 7 plant extract complex. Soothing, moisturizing\n• Betaine – Moisturizing\n• Biosaccharide gum – Moisturizing, soothing\n• Sodium hyaluronate – Moisturizing, moisture retention",
+          "zh": "MultiEx BSASM Plus — 7种植物复合提取物，舒缓保湿\n甜菜碱 — 保湿\n生物糖胶 — 保湿、舒缓\n透明质酸钠 — 保湿、锁水"
+        },
+        "how_to_use": {
+          "en": "Every morning and evening, after cleansing, apply a suitable amount on a cotton pad and wipe it from the center to the outside of the face.",
+          "zh": "每天早晚洁面后，取适量倒于化妆棉上，从面部中心向外擦拭。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "regenerating-calming-cream": {
+      "brand": "MERIKIT",
+      "category": "CALMING LINE",
+      "name": "REGENERATING CALMING CREAM",
+      "page_title": "Regenerating Calming Cream",
+      "product_line": "CALMING LINE",
+      "slug": "regenerating-calming-cream",
+      "source_file": "REGENERATING CALMING CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This nourishing cream soothes irritated skin to restore healthy skin while nourishing and strengthening the skin barrier.",
+          "zh": "这款滋养面霜可舒缓敏感肌肤，修护肌肤屏障，恢复健康状态。"
+        },
+        "skin_type": {
+          "en": "Sensitive skin, dry skin, aging skin",
+          "zh": "敏感肌、干性肌肤、熟龄肌肤"
+        },
+        "main_ingredients": {
+          "en": "• PhytoAge (8 medicinal herbs) – Soothing and skin barrier strengthening\n• Centella asiatica – Soothing\n• Meadowfoam seed oil – Moisturizing, rich in Vitamin E",
+          "zh": "PhytoAge（8种草本精华）— 舒缓并强健肌肤屏障\n积雪草 — 舒缓\n润泽草籽油 — 保湿，富含维生素E"
+        },
+        "how_to_use": {
+          "en": "At the end of skincare routine, apply a suitable amount. Pat lightly to absorb.",
+          "zh": "在护肤程序的最后一步，取适量涂抹于面部，并轻拍至吸收。"
+        },
+        "content": {
+          "en": "210ml",
+          "zh": "210毫升"
+        }
+      }
+    },
+    "regenerating-calming-mask": {
+      "brand": "MERIKIT",
+      "category": "CALMING LINE",
+      "name": "REGENERATING CALMING MASK",
+      "page_title": "Regenerating Calming Mask",
+      "product_line": "CALMING LINE",
+      "slug": "regenerating-calming-mask",
+      "source_file": "REGENERATING CALMING MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This dual effect (sleeping mask and facial mask) moisturizes and nourishes sensitive skin or skin after laser and peeling treatments.",
+          "zh": "这款双效（睡眠面膜和涂抹式面膜）产品可滋润和滋养敏感肌肤或激光及换肤后的肌肤。"
+        },
+        "skin_type": {
+          "en": "Sensitive skin, dry skin, aging skin",
+          "zh": "敏感肌、干性肌肤、熟龄肌肤"
+        },
+        "main_ingredients": {
+          "en": "• PhytoAge (8 medicinal herbs) – Soothing and skin barrier strengthening\n• Centella asiatica – Soothing\n• Skin Plus Calm (pomegranate, fig, deodeok)",
+          "zh": "8种草本精华 — 舒缓并强健肌肤屏障\n积雪草 — 舒缓肌肤\n• 石榴 — 天然雌激素，抗老化\n• 无花果 — 抗老化\n• 沙参 — 舒缓肌肤"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount avoiding the eyes and mouth. Wipe off after 10–15 minutes.",
+          "zh": "避开眼唇部位，取适量涂抹于面部。10至15分钟后擦拭干净。"
+        },
+        "content": {
+          "en": "300ml",
+          "zh": "300毫升"
+        }
+      }
+    },
+    "regenerating-calming-serum": {
+      "brand": "MERIKIT",
+      "category": "CALMING LINE",
+      "name": "REGENERATING CALMING SERUM",
+      "page_title": "Regenerating Calming Serum",
+      "product_line": "CALMING LINE",
+      "slug": "regenerating-calming-serum",
+      "source_file": "REGENERATING CALMING SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This soothing and revitalizing serum contains PhytoAge (medicinal herbs), centella asiatica, and shea butter for sensitive skin.",
+          "zh": "这款舒缓修复精华液含有草本PhytoAge、积雪草和乳木果成分，专为敏感肌设计。"
+        },
+        "skin_type": {
+          "en": "Sensitive skin, dry skin, aging skin",
+          "zh": "敏感肌、干性肌肤、熟龄肌肤"
+        },
+        "main_ingredients": {
+          "en": "• PhytoAge (8 medicinal herbs) – Soothing and strengthens skin barrier\n• Centella asiatica – Soothing\n• Shea butter – Excellent moisturizer\n• β-glucan – Soothing and strengthens skin immunity",
+          "zh": "8种草本复合物 — 舒缓并强化肌肤屏障\n积雪草 — 舒缓\n乳木果 — 出色的保湿剂\nβ-葡聚糖 — 舒缓并增强肌肤免疫力"
+        },
+        "how_to_use": {
+          "en": "After Toner and Ampoule, apply a suitable amount and spread to absorb.",
+          "zh": "使用爽肤水和安瓶后，取适量精华均匀涂抹并吸收。"
+        },
+        "content": {
+          "en": "250ml",
+          "zh": "250毫升"
+        }
+      }
+    },
+    "clarity-c-cream": {
+      "brand": "MERIKIT",
+      "category": "CLARITY LINE",
+      "name": "CLARITY C CREAM",
+      "page_title": "Clarity C Cream",
+      "product_line": "CLARITY LINE",
+      "slug": "clarity-c-cream",
+      "source_file": "CLARITY C CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This brightening cream clarifies the skin tone with lemongrass and barley extracts that retain moisture in the skin.",
+          "zh": "这款美白面霜通过柠檬草和大麦提取物提亮肤色，并帮助肌肤锁住水分。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin, dry skin, dull skin, sun-tanned skin",
+          "zh": "色素沉着、干性、暗沉或晒黑肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Acerola extract – 40x more vitamin C than orange, anti-aging & brightening\n• Artemisia extract – Rich in vitamin C, brightening\n• Orange peel oil – Protects and calms sensitive skin\n• MultiEx Rosanic – Soothes redness, 6-plant complex\n• Niacinamide – Brightening ingredient approved by KFDA",
+          "zh": "西印度樱桃提取物 — 含有橙子的40倍维生素C，具有抗老化和提亮效果\n艾草提取物 — 富含维生素C，提亮肌肤\n橙皮油 — 保护肌肤，防止敏感\nMultiEx Rosanic — 六种植物复合物，有效舒缓泛红\n烟酰胺 — 韩国KFDA认证的亮肤成分"
+        },
+        "how_to_use": {
+          "en": "After using the Serum, apply a suitable amount all over the face. Pat lightly to absorb.",
+          "zh": "使用精华后，取适量面霜涂抹于全脸，轻拍至吸收。"
+        },
+        "content": {
+          "en": "210ml",
+          "zh": "210毫升"
+        }
+      }
+    },
+    "clarity-mask": {
+      "brand": "MERIKIT",
+      "category": "CLARITY LINE",
+      "name": "CLARITY MASK",
+      "page_title": "Clarity Mask",
+      "product_line": "CLARITY LINE",
+      "slug": "clarity-mask",
+      "source_file": "CLARITY MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This brightening wash-off mask contains MultiEx Rosanic and portulaca extract to moisturize dull skin and help maintain healthy skin.",
+          "zh": "这款亮肤型清洗面膜含有MultiEx Rosanic和马齿苋提取物，帮助滋润暗沉肌肤，维持健康肤质。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin, dry skin, dull skin, sun-tanned skin",
+          "zh": "色素沉着肌、干性肌、暗沉肌、晒黑肌"
+        },
+        "main_ingredients": {
+          "en": "• MultiEx Rosanic – 6 natural extracts for soothing and anti-redness\n• Niacinamide – Brightening, KFDA approved\n• Orange peel oil – Protects and prevents skin sensitivity\n• Avena sativa kernel extract – Soothes the skin",
+          "zh": "MultiEx Rosanic — 含有6种天然植物提取物，具有舒缓和抗红作用\n烟酰胺 — 提亮肤色，获韩国KFDA认证\n橙皮油 — 抵御外部刺激，预防敏感\n燕麦仁提取物 — 舒缓肌肤"
+        },
+        "how_to_use": {
+          "en": "Avoid the eyes and mouth. Wipe it off after 10–15 minutes.",
+          "zh": "避开眼部和唇部，敷10–15分钟后擦拭清洁。"
+        },
+        "content": {
+          "en": "300ml",
+          "zh": "300毫升"
+        }
+      }
+    },
+    "clarity-serum": {
+      "brand": "MERIKIT",
+      "category": "CLARITY LINE",
+      "name": "CLARITY SERUM",
+      "page_title": "Clarity Serum",
+      "product_line": "CLARITY LINE",
+      "slug": "clarity-serum",
+      "source_file": "CLARITY SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This brightening serum contains niacinamide for clarifying effects.",
+          "zh": "这款亮肤精华液含有烟酰胺，具有净澈肤色的功效。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin, dry skin, dull skin, sun-tanned skin",
+          "zh": "色素沉着、干性肌肤、暗沉肌肤、晒黑肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Orange peel oil – Protects from external environment and revitalizes aging skin\n• Niacinamide – Brightening (KFDA approved), Vitamin B3\n• Vitamin C – Evens and brightens skin tone\n• Sodium hyaluronate – Moisturizer",
+          "zh": "橙皮油 — 抵御外界刺激，焕活老化肌肤\n烟酰胺 — 提亮肤色，韩国KFDA认证，维生素B3\n维生素C — 均匀提亮肤色\n透明质酸钠 — 保湿成分"
+        },
+        "how_to_use": {
+          "en": "After using Toner and Ampoule, apply a suitable amount all over the face.",
+          "zh": "使用爽肤水和安瓶后，取适量精华液涂抹于全脸。"
+        },
+        "content": {
+          "en": "250ml",
+          "zh": "250毫升"
+        }
+      }
+    },
+    "aqua-facial-foam": {
+      "brand": "MERIKIT",
+      "category": "CLEANSING LINE",
+      "name": "AQUA FACIAL FOAM",
+      "page_title": "Aqua Facial Foam",
+      "product_line": "CLEANSING LINE",
+      "slug": "aqua-facial-foam",
+      "source_file": "AQUA FACIAL FOAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "The fruit acid removes dead skin cells from the skin, while allantoin and other moisturizing and soothing ingredients keep the skin hydrated. The natural surfactant extracted from coconut retains moisture in the skin while cleansing the skin.",
+          "zh": "果酸去除肌肤表面的老废角质，尿囊素及其他保湿舒缓成分可滋润肌肤。天然椰子提取的表面活性剂在洁面的同时保留肌肤水分。"
+        },
+        "skin_type": {
+          "en": "For all skin types. Loose pores. Oily skin.",
+          "zh": "适用于所有肤质。毛孔粗大、油性肌肤适用。"
+        },
+        "main_ingredients": {
+          "en": "• Allantoin – Moisturizing and soothing\n• Cocamidopropyl Betaine – Surfactant extracted from coconut oil",
+          "zh": "尿囊素 — 保湿和舒缓\n椰油酰胺丙基甜菜碱 — 椰子油提取的表面活性剂"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount on the face. Rub gently before rinsing off with warm water.",
+          "zh": "取适量涂抹于脸部，轻柔按摩后用温水洗净。"
+        },
+        "content": {
+          "en": "500ml",
+          "zh": "500毫升"
+        }
+      }
+    },
+    "grain-rice-foam": {
+      "brand": "MERIKIT",
+      "category": "CLEANSING LINE",
+      "name": "GRAIN RICE FOAM",
+      "page_title": "Grain Rice Foam",
+      "product_line": "CLEANSING LINE",
+      "slug": "grain-rice-foam",
+      "source_file": "GRAIN RICE FOAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "The gentle foam removes impurities in the pores and residual makeup, while fermented grain extracts form a protective barrier to keep the skin hydrated and smooth after cleansing.",
+          "zh": "温和的泡沫可去除毛孔内的杂质和残留彩妆，发酵谷物提取物为肌肤形成保护屏障，洁面后肌肤水润光滑。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Rice – Rich in vitamin E and C, keeps skin clear and healthy\n• Black bean – Anti-aging, contains lecithin\n• Black sesame seed – Clarifies skin tone\n• Coix – Cools and soothes the skin\n• Mung bean – Soothing\n• Wheat – Conditions the skin\n• Corn kernel extract – Forms barrier against dust and pollution\n• Yeast extract – Clarifies and nourishes",
+          "zh": "米提取物 — 富含维生素E和C，清透健康肌肤\n黑豆 — 抗老化，含有卵磷脂\n黑芝麻 — 提亮肤色\n薏苡仁 — 清凉镇静肌肤\n绿豆 — 舒缓肌肤\n小麦 — 调理肌肤\n玉米提取物 — 形成保护层，抵御灰尘污染\n酵母提取物 — 提亮肤色，富含维生素与矿物质"
+        },
+        "how_to_use": {
+          "en": "Take out a suitable amount on the palm and add a bit of water. Lather and massage gently before rinsing off with warm water.",
+          "zh": "取适量于掌心，加水揉搓起泡后轻柔按摩，再用温水洗净。"
+        },
+        "content": {
+          "en": "180ml",
+          "zh": "180毫升"
+        }
+      }
+    },
+    "deto-bubble-kit-carboxy-co2": {
+      "brand": "MERIKIT",
+      "category": "DETO BUBBLE LINE",
+      "name": "DETO BUBBLE KIT - CARBOXY CO2",
+      "page_title": "Deto Bubble Kit Carboxy CO2 Mask",
+      "product_line": "DETO BUBBLE LINE",
+      "slug": "deto-bubble-kit-carboxy-co2",
+      "source_file": "DETO BUBBLE KIT - CARBOXY CO2.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Clear skin with detoxing effects. This set contains clearing and refreshing oxygen bubbles that remove impurities and dead skin cells while platinum colloid and nonapeptide-1 keep the skin firm and bright.",
+          "zh": "清爽的氧气泡沫可去除老废角质与杂质，铂金胶体和九肽-1令肌肤紧致透亮，具有排毒焕肤效果。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin, dull skin, all skin types",
+          "zh": "色素沉着肌、暗沉肌、所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Deto Bubble Ampoule – 5ml: Intensive ampoule that hydrates and revitalizes sensitive skin\n• Deto Bubble Mask – 25g: Oxygen bubbles exfoliate and clarify\n• Deto Bubble Cream – 50ml: Moisturizing cream with:\n• Saururus Chinensis Leaf/Root Extract – Firms and revitalizes\n• Nonapeptide-1 – Brightens and reduces melanin\n• Platinum Colloid – Firms skin, reduces fine lines",
+          "zh": "Deto安瓶 — 密集保湿、舒缓敏感肌肤\nDeto面膜 — 氧气泡清洁老废角质，焕亮肌肤\n三白草叶/根提取物 — 紧致、活化肌肤\n九肽-1 — 抑制黑色素、提亮肤色\n铂金胶体 — 提拉紧致、淡化细纹"
+        },
+        "how_to_use": {
+          "en": "After using the Toner, apply a suitable amount of Merikit Deto Bubble Ampoule to the face and allow to absorb. Then place the Deto Bubble Mask on the face (remove after 10–20 minutes).\nAfter removing the mask, apply Deto Bubble Cream and let it absorb.",
+          "zh": "使用爽肤水后，先涂抹Deto安瓶至全脸，吸收后敷上Deto面膜（10–20分钟后取下），最后涂抹Deto面霜帮助吸收。"
+        },
+        "content": {
+          "en": "• Deto Bubble Ampoule: 5ml × 10ea\n• Deto Bubble Mask: 25g × 10ea\n• Deto Bubble Cream: 50ml × 1ea",
+          "zh": "• Deto安瓶：5ml × 10个\n• Deto面膜：25g × 10个\n• Deto面霜：50ml × 1个"
+        }
+      }
+    },
+    "wrinkle-care-cream": {
+      "brand": "MERIKIT",
+      "category": "EYE CREAM",
+      "name": "WRINKLE CARE CREAM",
+      "page_title": "WRINKLE CARE CREAM",
+      "product_line": "EYE CREAM",
+      "slug": "wrinkle-care-cream",
+      "source_file": "WRINKLE CARE CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Hydrates the eye area to prevent dryness and roughness. Contains adenosine to help firm and smooth the delicate skin around the eyes.",
+          "zh": "滋润眼部，防止干燥粗糙，含腺苷成分，有效改善眼部细纹与松弛。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Adenosine\nAnti-wrinkle ingredient with proven effects\n• rh-Oligopeptide-1 (EGF)\nAccelerates epithelial cell growth\n• Centella asiatica extract\nMoisturizing\n• Tocopheryl acetate\nProtects skin and reduces signs of aging",
+          "zh": "腺苷：具抗皱效果的活性成分\n表皮生长因子：促进皮肤细胞再生\n积雪草提取物：保湿、舒缓\n维生素E衍生物：保护皮肤、减缓老化"
+        },
+        "how_to_use": {
+          "en": "1. Apply a suitable amount below the eyes, eye edges, and eyelids.\n2. With eyes open, spread from inner to outer corners.\n3. Massage in circular motion (outer corner → eyelid → inner corner).\nPat lightly to absorb.",
+          "zh": "1. 取适量涂抹于眼下、眼角和眼皮\n2. 睁眼状态下由内眼角→眼下→外眼角轻柔涂抹\n3. 以外眼角→眼皮→内眼角的顺序按摩吸收。"
+        },
+        "content": {
+          "en": "40ml",
+          "zh": "40毫升"
+        }
+      }
+    },
+    "coenzyme-q10-massage-cream": {
+      "brand": "MERIKIT",
+      "category": "MASSAGE CARE LINE",
+      "name": "COENZYME Q10 MASSAGE CREAM",
+      "page_title": "Coenzyme Q10 Massage Cream",
+      "product_line": "MASSAGE CARE LINE",
+      "slug": "coenzyme-q10-massage-cream",
+      "source_file": "COENZYME Q10 MASSAGE CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Coenzyme Q10 and natural ingredients reduce irritation and stress on the skin with soothing effects to restore healthy skin.",
+          "zh": "辅酶Q10与天然成分相结合，减轻肌肤刺激与压力，舒缓修复肌肤健康。"
+        },
+        "skin_type": {
+          "en": "For all skin types. Recommended for loose skin or fine lines.",
+          "zh": "适用于所有肤质，推荐用于松弛肌肤或细纹肌肤。"
+        },
+        "main_ingredients": {
+          "en": "• Coenzyme Q10 – Improves loose skin, moisturizing\n• Kiwi extract – Clarifies skin tone\n• Scutellaria Baicalensis Root Extract – Moisturizing\n• Mulberry root extract – Clarifying\n• Tocopheryl acetate – Protects, reduces signs of aging",
+          "zh": "辅酶Q10 — 改善松弛肌肤，滋润保湿\n奇异果提取物 — 提亮肤色\n黄芩根提取物 — 滋润保湿\n桑根提取物 — 净澈提亮\n醋酸生育酚 — 保护肌肤，减少老化迹象"
+        },
+        "how_to_use": {
+          "en": "Use a suitable amount during the meridian massage.",
+          "zh": "经络按摩时取适量使用。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "pure-aloe-vera": {
+      "brand": "MERIKIT",
+      "category": "MASSAGE CARE LINE",
+      "name": "PURE ALOE VERA",
+      "page_title": "Pure Aloe Vera",
+      "product_line": "MASSAGE CARE LINE",
+      "slug": "pure-aloe-vera",
+      "source_file": "PURE ALOE VERA.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This soothing and moisturizing gel can be used for all skin types. Centellaasiatica extract and green tea extract quickly soothe the skin while betaine moisturizes the skin.",
+          "zh": "这款舒缓保湿啫喱适用于所有肤质。积雪草提取物和绿茶提取物能迅速舒缓肌肤，同时甜菜碱为肌肤补水保湿。"
+        },
+        "skin_type": {
+          "en": "For all skin types. Sunburn. After laser and peeling treatment",
+          "zh": "适用于所有肤质，适合晒后、激光或换肤护理后使用"
+        },
+        "main_ingredients": {
+          "en": "• Aloe vera – Soothes sensitive skin\n• Centellaasiatica extract – Soothing, reduces redness\n• Betaine – Moisturizing, moisture-retaining",
+          "zh": "芦荟 — 舒缓敏感肌肤\n积雪草提取物 — 舒缓，减少泛红\n甜菜碱 — 保湿，锁水"
+        },
+        "how_to_use": {
+          "en": "After cleansing, at the end of the skincare routine, apply a suitable amount and pat lightly to absorb.",
+          "zh": "洁面后，在护肤程序的最后一步，取适量轻拍至吸收。"
+        },
+        "content": {
+          "en": "500ml",
+          "zh": "500毫升"
+        }
+      }
+    },
+    "double-peeling-gel": {
+      "brand": "MERIKIT",
+      "category": "PEELING LINE",
+      "name": "DOUBLE PEELING GEL",
+      "page_title": "Double Peeling Gel",
+      "product_line": "PEELING LINE",
+      "slug": "double-peeling-gel",
+      "source_file": "DOUBLE PEELING GEL.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This scrub can be used as gommage or enzyme peel. Papaya extract helps remove dead skin cells, while portulaca extract and hyaluronic acid moisturize, nourish, and soothe the skin.",
+          "zh": "这款去角质啫喱既可用作按摩膏也可作酵素去角质，含木瓜提取物去除老废角质，搭配马齿苋和透明质酸舒缓并保湿肌肤。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Papaya extract – Removes dead skin cells without irritation\n• Portulaca extract – Soothing and anti-irritation\n• Hyaluronic acid – Moisturizing and moisture retention",
+          "zh": "木瓜提取物 — 去除老废角质且温和不刺激\n马齿苋提取物 — 舒缓镇静、抗刺激\n透明质酸 — 补水保湿、锁住水分"
+        },
+        "how_to_use": {
+          "en": "After cleansing, on dry skin, apply a suitable amount. After it dries somewhat, peel it off and rinse with warm water.",
+          "zh": "洁面后在干燥肌肤上取适量使用，稍微干燥后轻轻搓掉并用温水冲洗。"
+        },
+        "content": {
+          "en": "300ml",
+          "zh": "300毫升"
+        }
+      }
+    },
+    "aqua-shining-sunblock": {
+      "brand": "MERIKIT",
+      "category": "PROTECTION LINE",
+      "name": "Aqua Shining Sunblock",
+      "page_title": "Aqua Shining Sunblock",
+      "product_line": "PROTECTION LINE",
+      "slug": "aqua-shining-sunblock",
+      "source_file": "Aqua Shining Sunblock.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This mild suncream doubles as a makeup base, with moringa oleifera seed oil and camellia oil hydrating the skin while protecting the skin from UV rays.",
+          "zh": "这款温和的防晒霜可兼作妆前乳，含有辣木籽油和山茶花油，为肌肤提供保湿同时抵御紫外线伤害。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Camellia oil – Hydrating\n• Moringa oleifera seed oil – Softens skin and helps absorb nutrients\n• Ethylhexyl methoxycinnamate – UV-blocking agent\n• Zinc oxide – Forms a barrier against harmful substances\n• Sodium hyaluronate – Moisture retention",
+          "zh": "山茶花油 — 保湿\n辣木籽油 — 柔软肌肤并帮助吸收营养成分\n甲氧基肉桂酸乙基己酯 — 防晒成分\n氧化锌 — 抵御外界有害物质的保护膜\n透明质酸钠 — 锁水保湿"
+        },
+        "how_to_use": {
+          "en": "1. After basic skincare, apply a suitable amount on the face and other areas exposed to the sun.\n2. For thorough protection against UV rays, apply every 3–4 hours.",
+          "zh": "1. 基础护肤后，取适量涂抹于面部及身体暴露部位。\n2. 为获得全面防护，建议每3–4小时补涂一次。"
+        },
+        "content": {
+          "en": "60ml",
+          "zh": "60毫升"
+        }
+      }
+    },
+    "multi-protection-balm": {
+      "brand": "MERIKIT",
+      "category": "PROTECTION LINE",
+      "name": "Multi-Protection Balm",
+      "page_title": "Multi-Protection Balm",
+      "product_line": "PROTECTION LINE",
+      "slug": "multi-protection-balm",
+      "source_file": "Multi-Protection Balm.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This triple-effect BB cream provides UV protection + brightening + anti-wrinkle effects for firm and bright skin tone while covering the imperfections and blemishes for healthy-looking skin.",
+          "zh": "这款三重功效的BB霜具备防晒、美白及抗皱效果，使肌肤紧致明亮，同时遮盖瑕疵与斑点，呈现健康肤色。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Arbutin – Extracted from cowberry, inhibits tyrosinase (enzyme for melanin)\n• Zinc oxide – Forms a film to protect the skin from harmful substances\n• Kava, Poncirus trifoliata Rafin extracts – Plant-derived soothing ingredient for sensitive skin",
+          "zh": "熊果苷 — 提取自越橘，抑制酪氨酸酶活性，防止黑色素生成\n氧化锌 — 在肌肤表面形成保护膜，抵御有害物质\n卡瓦及枳实提取物 — 植物性舒缓成分，适合敏感肌"
+        },
+        "how_to_use": {
+          "en": "1. After the basic skincare, apply a suitable amount on the face and other areas exposed to the sun.\n2. For thorough protection against UV rays, apply every 3–4 hours.",
+          "zh": "1. 基础护肤后，取适量涂抹于面部及其他暴露在阳光下的部位。\n2. 为全面防护紫外线，每3-4小时补涂一次。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "super-aqua-mineral-toner": {
+      "brand": "MERIKIT",
+      "category": "SUPER MOISTURE LINE",
+      "name": "SUPER AQUA MINERAL TONER",
+      "page_title": "Super Aqua Mineral Toner",
+      "product_line": "SUPER MOISTURE LINE",
+      "slug": "super-aqua-mineral-toner",
+      "source_file": "SUPER AQUA MINERAL TONER.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Essence toner for toning, moisturizing, and moisture retention for extremely dry skin.",
+          "zh": "这款精华爽肤水专为极干肌肤设计，具有调理、保湿和锁水功效。"
+        },
+        "skin_type": {
+          "en": "All skin types, extremely dry skin",
+          "zh": "适用于所有肤质，尤其是极度干燥肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Macadamia oil – Ultra-moisturizing\n• Mushroom extract complex (M3+Extract) – Softening and moisturizing\n• Sodium hyaluronate – Moisturizer",
+          "zh": "澳洲坚果油 — 深层滋润\n蘑菇复合提取物 — 柔肤保湿\n透明质酸钠 — 保湿成分"
+        },
+        "how_to_use": {
+          "en": "After cleansing, apply a suitable amount on a cotton pad and wipe from the center to the outside of the face.",
+          "zh": "洁面后，取适量于化妆棉上，从面部中心向外擦拭。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "super-moisture-cleansing": {
+      "brand": "MERIKIT",
+      "category": "SUPER MOISTURE LINE",
+      "name": "SUPER MOISTURE CLEANSING",
+      "page_title": "Super Moisture Cleansing",
+      "product_line": "SUPER MOISTURE LINE",
+      "slug": "super-moisture-cleansing",
+      "source_file": "SUPER MOISTURE CLEANSING.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This moisturizing cleansing lotion contains mushroom extract complex (M3 + Extract).\nThe pastel blue & violet adds feminine elegance to the sweetness of the pink princess fragrance developed in France.",
+          "zh": "这款保湿洁面乳含有蘑菇提取复合物 (M3 + Extract)，融合粉公主香氛，带有淡蓝和紫罗兰的优雅香气。"
+        },
+        "skin_type": {
+          "en": "All skin types, extremely dry skin, dry skin",
+          "zh": "适用于所有肤质，特别是极度干燥肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Macadamia oil – Ultra-moisturizing\n• Phellinus linteus extract – Firming\n• Lingzhi mushroom extract – Protects skin from external environment\n• Centella asiatica extract – Relieves skin irritation",
+          "zh": "澳洲坚果油 — 深层保湿\n桑黄提取物 — 紧致肌肤\n灵芝提取物 — 抵御外部刺激\n积雪草提取物 — 舒缓肌肤刺激"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.\nWash off with warm water or cleanser.",
+          "zh": "取适量均匀涂抹于面部，然后用温水或洁面产品洗净。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "super-moisture-massage-cream": {
+      "brand": "MERIKIT",
+      "category": "SUPER MOISTURE LINE",
+      "name": "SUPER MOISTURE MASSAGE CREAM",
+      "page_title": "Super Moisture Massage Cream",
+      "product_line": "SUPER MOISTURE LINE",
+      "slug": "super-moisture-massage-cream",
+      "source_file": "SUPER MOISTURE MASSAGE CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This massage cream contains tocopheryl acetate for revitalizing the skin while Chaga, Lingzhi, and Phellinus mushroom extracts nourish and moisturize the skin.",
+          "zh": "本款按摩霜含有生育酚乙酸酯，有助于提亮肌肤，同时灵芝、桦褐孔菌和桑黄提取物滋养保湿肌肤。"
+        },
+        "skin_type": {
+          "en": "All skin types, extremely dry skin, dry skin, loose skin",
+          "zh": "适用于所有肤质，特别是极度干燥、松弛肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Mushroom extract complex (M3+Extract) – Softening and moisturizing\n• Lingzhi mushroom extract – Skin and cell immunity enhancement\n• Chaga mushroom extract – Inhibits melanin, clarifies skin tone\n• Phellinus mushroom extract – Moisturizing, firming",
+          "zh": "蘑菇提取复合物 — 柔软保湿\n灵芝提取物 — 增强肌肤免疫力\n桦褐孔菌提取物 — 抑制黑色素，提亮肤色\n桑黄提取物 — 保湿紧致"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount on the desired area. Massage lightly for 10–15 minutes and wipe off.",
+          "zh": "取适量涂抹于所需部位，按摩10至15分钟后擦拭干净。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "super-moisturizing-cream": {
+      "brand": "MERIKIT",
+      "category": "SUPER MOISTURE LINE",
+      "name": "SUPER MOISTURIZING CREAM",
+      "page_title": "Super Moisturizing Cream",
+      "product_line": "SUPER MOISTURE LINE",
+      "slug": "super-moisturizing-cream",
+      "source_file": "SUPER MOISTURIZING CREAM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This moisturizing cream contains mushroom extract complex (M3+Extract), meadowfoam seed oil, and sodium hyaluronate for nourishing and moisturizing effects.\nThe pastel blue & violet adds feminine elegance to the sweetness of the pink princess fragrance developed in France.",
+          "zh": "这款保湿霜含有蘑菇提取复合物（M3+提取物）、欧蓍草籽油和透明质酸钠，具有滋养和保湿功效。\n法式粉色公主香气中融合淡蓝与淡紫的优雅气息。"
+        },
+        "skin_type": {
+          "en": "All skin types, extremely dry skin, dry skin",
+          "zh": "适用于所有肤质，尤其是极度干燥及干性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Macadamia oil – Ultra-moisturizing\n• Mushroom extract complex (M3+Extract) – Softening and moisturizing\n• Sodium hyaluronate – Moisturizer\n• Allantoin – Moisturizing and soothing",
+          "zh": "夏威夷果油 — 极致保湿\n蘑菇提取复合物 — 柔软保湿\n透明质酸钠 — 保湿剂\n尿囊素 — 保湿舒缓"
+        },
+        "how_to_use": {
+          "en": "After using the Serum, apply a suitable amount all over the face. Pat lightly to absorb.",
+          "zh": "使用精华后，取适量涂抹于整个面部，轻拍至吸收。"
+        },
+        "content": {
+          "en": "210ml",
+          "zh": "210毫升"
+        }
+      }
+    },
+    "super-moisturizing-serum": {
+      "brand": "MERIKIT",
+      "category": "SUPER MOISTURE LINE",
+      "name": "SUPER MOISTURIZING SERUM",
+      "page_title": "Super Moisturizing Serum",
+      "product_line": "SUPER MOISTURE LINE",
+      "slug": "super-moisturizing-serum",
+      "source_file": "SUPER MOISTURIZING SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This moisturizing serum contains mushroom extract complex (M3+Extract), centella asiatica, and allantoin for moisturizing and soothing effects.\nThe pastel blue & violet adds feminine elegance to the sweetness of the pink princess fragrance developed in France.",
+          "zh": "这款保湿精华液蕴含蘑菇提取复合物（M3+提取物）、积雪草和尿囊素，具有出色的保湿和舒缓功效。\n法式粉色公主香气中融合淡蓝与淡紫的优雅气息。"
+        },
+        "skin_type": {
+          "en": "All skin types, extremely dry skin, dry skin",
+          "zh": "适用于所有肤质，尤其是极度干燥及干性肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Macadamia oil – Ultra-moisturizing\n• Mushroom extract complex (M3+Extract) – Softening, moisturizing\n• Sodium hyaluronate – Moisturizer with powerful moisture retention\n• Allantoin – Moisturizing and soothing",
+          "zh": "夏威夷果油 — 极致保湿\n蘑菇提取复合物 — 柔软保湿\n透明质酸钠 — 强效保湿\n尿囊素 — 保湿舒缓"
+        },
+        "how_to_use": {
+          "en": "After using toner and ampoule, apply a suitable amount.",
+          "zh": "使用爽肤水和安瓶后，取适量涂抹于面部。"
+        },
+        "content": {
+          "en": "250ml",
+          "zh": "250毫升"
+        }
+      }
+    },
+    "vita-kit": {
+      "brand": "MERIKIT",
+      "category": "VITA-C LINE",
+      "name": "VITA KIT",
+      "page_title": "VITA KIT",
+      "product_line": "VITA-C LINE",
+      "slug": "vita-kit",
+      "source_file": "VITA KIT.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "It helps to minimize the appearance of discoloration, especially dark spots and undereye circles, by encouraging their fading. In doing so, it helps to revitalize the skin’s natural, healthy brightness for a more rejuvenated appearance.",
+          "zh": "有效改善暗沉、黑眼圈等色素沉淀问题，使肌肤重现健康透亮、焕发光采。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin, dull skin, all skin",
+          "zh": "色素沉着、暗沉肌肤、所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• VITA C-13 AMPOULE\nPure Vitamin C: Helps visibly even skin tone and improve clarity.\nGlutathione: Inhibits Tyrosinase enzyme to suppress pigmentation.\n• VITA MASK\nNiacinamide: Whitening functional ingredient which lightens hyperpigmentation.\nAlpha Arbutin: Inhibits Tyrosinase enzyme to suppress pigmentation.\n• VITA CREAM\nMeadowfoam Seed Oil: Moisture barrier, reduces evaporation.\nCocoa Seed Butter: Locks in moisture for all-day hydration.\n• VITA TONE UP CREAM\nβ-glucan: Boosts skin immunity, soothes irritation.\nTrehalose: Retains moisture, hydrates skin.",
+          "zh": "纯维C：均匀肤色、提亮肤色\n谷胱甘肽：抑制酪氨酸酶，减少黑色素沉淀\n烟酰胺：美白活性成分，有效淡化色斑\n熊果苷：抑制酪氨酸酶，防止黑色素生成\n草地泡沫籽油：强效保湿、阻止水分流失\n可可脂：深层滋养、持久锁水\nβ-葡聚糖：舒缓敏感、增强肌肤屏障\n海藻糖：保湿锁水，提升肌肤含水量"
+        },
+        "how_to_use": {
+          "en": "Apply in the following order: VITA-C13 Ampoule → VITA Mask → VITA Cream → VITA Tone Up Cream.",
+          "zh": "依次使用：维C安瓶 → 面膜 → 面霜 → 提亮霜。"
+        },
+        "content": {
+          "en": "VITA Mask: 25g × 5ea\nVITA Tone Up Cream: 2g × 5ea\nVITA-C13 Ampoule: 5g × 5ea\nVITA Cream: 20g × 2ea",
+          "zh": "维他命面膜：25克 × 5片\n提亮霜：2克 × 5包\n维他命安瓶：5克 × 5支\n面霜：20克 × 2瓶"
+        }
+      }
+    },
+    "vita-c-return-cream": {
+      "brand": "MERIKIT",
+      "category": "VITA-C LINE",
+      "name": "VITA-C RETURN CREAM",
+      "page_title": "VITA-C RETURN CREAM",
+      "product_line": "VITA-C LINE",
+      "slug": "vita-c-return-cream",
+      "source_file": "VITA-C RETURN CREAM.HTML",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Improving whitening and wrinkles to help regenerate the skin. This is a nutritional cream that’s easily absorbed by the skin and helps calm it. (Whitening/Wrinkle-improving functional)",
+          "zh": "美白和抗皱的营养面霜，促进肌肤再生，吸收性佳，有效镇静肌肤。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Centella asiatica leaf water\nWound healing effect, Antioxidant effect, Moisturizing effect\n• Coenzyme Q10\nServes as an antioxidant that protects cells from free radical damage\n• Macadamia Ternifolia Seed Oil\nKnown as vitamin tree oil, effective for atopy. Contains ~25% palmitoleic acid.\nAntioxidant, protects cell membranes.",
+          "zh": "积雪草叶水：促进伤口愈合，抗氧化，保湿\n辅酶Q10：抗氧化，防止自由基伤害细胞\n澳洲坚果籽油：富含棕榈烯酸，具抗氧化功能，保护细胞膜，适用于敏感肌"
+        },
+        "how_to_use": {
+          "en": "After using the return serum, apply an appropriate amount and absorb into the skin. It can also be used as a sleeping pack at night.",
+          "zh": "使用精华后，取适量均匀涂抹于肌肤。晚上可作为睡眠面膜使用。"
+        },
+        "content": {
+          "en": "100ml",
+          "zh": "100毫升"
+        }
+      }
+    },
+    "vita-c-return-serum": {
+      "brand": "MERIKIT",
+      "category": "VITA-C LINE",
+      "name": "VITA-C RETURN SERUM",
+      "page_title": "VITA-C RETURN SERUM",
+      "product_line": "VITA-C LINE",
+      "slug": "vita-c-return-serum",
+      "source_file": "VITA-C RETURN SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "It soothes skin irritation and strengthens the moisture barrier. Made from all-green grade ingredients to maintain hydration while supporting whitening and anti-wrinkle care.",
+          "zh": "缓解皮肤刺激、加强保湿屏障的维他命C精华。天然成分，有效美白与抗皱。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质适用"
+        },
+        "main_ingredients": {
+          "en": "• Centella asiatica leaf water\nWound healing, antioxidant and moisturizing effects\n• Lime extract\nAntioxidant, anti-inflammatory, antibacterial (source of vitamin C)\n• Raspberry extract\nRich in polyphenols, anthocyanins, omega-3, vitamins. Anti-aging, moisturizing and calming.",
+          "zh": "积雪草叶水：促进伤口愈合，抗氧化，保湿\n青柠提取物：抗氧化、抗炎、抗菌\n覆盆子提取物：富含多酚、花青素、维生素、Ω-3，有助抗老保湿与镇静"
+        },
+        "how_to_use": {
+          "en": "After using VITA-C13 ampoule, apply return serum gently and absorb into the skin.",
+          "zh": "使用VITA-C13安瓶后，轻柔地涂抹精华于肌肤并吸收。"
+        },
+        "content": {
+          "en": "50ml",
+          "zh": "50毫升"
+        }
+      }
+    },
+    "clear-care-ampoule": {
+      "brand": "OR'JADE",
+      "category": "AMPOULE LINE",
+      "name": "CLEAR CARE AMPOULE",
+      "page_title": "Clear Care Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "clear-care-ampoule",
+      "source_file": "Clear Care Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Controls sebum production and refreshes trouble-prone skin with astringent effect.",
+          "zh": "调节皮脂分泌，以收敛功效清爽问题肌肤。"
+        },
+        "skin_type": {
+          "en": "Oily and trouble-prone skin with excessive sebum",
+          "zh": "油性及易出油的敏感问题肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Cinnamomum Cassia Bark Extract: The cinnamon oil protects and soothes the skin from harmful external environment including the UV rays\n• Tea Tree Oil: Anti-inflammatory, astringent. Protects skin from harmful external environment\n• Allantoin: Extracted from the root of comfrey. Soothing",
+          "zh": "肉桂皮提取物：肉桂油可保护并舒缓肌肤，抵御包括紫外线在内的有害外部环境\n茶树油：抗炎、收敛，有助于抵御外部环境对肌肤的刺激\n尿囊素：源自紫草根部，具有舒缓功效"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.",
+          "zh": "取适量均匀涂抹于整个面部。"
+        },
+        "content": {
+          "en": "2ml × 10",
+          "zh": "2毫升 × 10支"
+        }
+      }
+    },
+    "lifting-care-ampoule": {
+      "brand": "OR'JADE",
+      "category": "AMPOULE LINE",
+      "name": "LIFTING CARE AMPOULE",
+      "page_title": "Lifting Care Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "lifting-care-ampoule",
+      "source_file": "Lifting Care Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Moisturize, nourish, and firm the skin by strengthening it.",
+          "zh": "通过强化肌肤，实现保湿、滋养与紧致效果。"
+        },
+        "skin_type": {
+          "en": "Loose skin with fine lines\nDry and thin skin",
+          "zh": "有细纹的松弛肌肤\n干燥且薄弱的肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Witch Hazel Extract: Restores skin balance. Soothing\n• Antler Extract: Nourishing",
+          "zh": "金缕梅提取物：恢复肌肤平衡，具有舒缓效果\n鹿茸提取物：滋养肌肤"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.",
+          "zh": "取适量均匀涂抹于整个面部。"
+        },
+        "content": {
+          "en": "2ml × 10",
+          "zh": "2毫升 × 10支"
+        }
+      }
+    },
+    "moisture-care-ampoule": {
+      "brand": "OR'JADE",
+      "category": "AMPOULE LINE",
+      "name": "MOISTURE CARE AMPOULE",
+      "page_title": "Moisture Care Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "moisture-care-ampoule",
+      "source_file": "Moisture Care Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Powerful moisturization to keep the skin healthy.",
+          "zh": "强效保湿，使肌肤保持健康状态。"
+        },
+        "skin_type": {
+          "en": "Dry or loose skin that require more hydration",
+          "zh": "干燥或松弛肌肤，需要额外补水"
+        },
+        "main_ingredients": {
+          "en": "• Peony Root Extract: Moisturizing, soothing, and cooling\n• Lotus Flower Extract: Moisturizing and skin protection\n• Lily Extract: Softening, nourishing, moisturizing",
+          "zh": "牡丹根提取物：保湿、舒缓、清凉肌肤\n莲花提取物：保湿并保护肌肤\n百合提取物：柔软肌肤、滋养与保湿"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.",
+          "zh": "取适量均匀涂抹于整个面部。"
+        },
+        "content": {
+          "en": "2ml × 10",
+          "zh": "2毫升 × 10支"
+        }
+      }
+    },
+    "snow-care-ampoule": {
+      "brand": "OR'JADE",
+      "category": "AMPOULE LINE",
+      "name": "SNOW CARE AMPOULE",
+      "page_title": "Snow Care Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "snow-care-ampoule",
+      "source_file": "Snow Care Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Restores skin oil-moisture balance and brightens the skin tone for clear and clean skin.",
+          "zh": "恢复肌肤水油平衡，提亮肤色，使肌肤清透净亮。"
+        },
+        "skin_type": {
+          "en": "Pigmented skin that requires brightening care\nUneven skin tone",
+          "zh": "需要亮白护理的色素沉着肌肤\n肤色不均的肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Niacinamide: A water-soluble vitamin B complex that clarifies the skin. Anti-oxidant\n• Morus Alba Bark Extract: Soothing, brightening, and moisturizing\n• Rhododendron Aureum Extract: Moisturizing, brightening",
+          "zh": "烟酰胺：水溶性维生素B复合物，有助于净化肌肤，具抗氧化功效\n桑白皮提取物：舒缓、美白、保湿\n金杜鹃提取物：保湿与提亮"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.",
+          "zh": "取适量均匀涂抹于整个面部。"
+        },
+        "content": {
+          "en": "2ml × 10",
+          "zh": "2毫升 × 10支"
+        }
+      }
+    },
+    "soothing-care-ampoule": {
+      "brand": "OR'JADE",
+      "category": "AMPOULE LINE",
+      "name": "SOOTHING CARE AMPOULE",
+      "page_title": "Soothing Care Ampoule",
+      "product_line": "AMPOULE LINE",
+      "slug": "soothing-care-ampoule",
+      "source_file": "Soothing Care Ampoule.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Green tea, peony root extracts, and other soothing ingredients improve sensitive skin while licorice extract brightens the skin tone.",
+          "zh": "绿茶、牡丹根等舒缓成分可改善敏感肌肤，甘草提取物则有助于提亮肤色。"
+        },
+        "skin_type": {
+          "en": "Itchy skin due to dryness, atopic dermatitis, etc.\nDull skin stressed from external environment",
+          "zh": "干燥、异位性皮炎等导致的瘙痒肌肤\n因外部环境压力而暗沉的肌肤"
+        },
+        "main_ingredients": {
+          "en": "• Green Tea Extract: Pore-tightening and firming\n• Licorice Extract: Soothing, softening\n• Peony Root Extract: Moisturizing, soothing, cooling",
+          "zh": "绿茶提取物：收缩毛孔，紧致肌肤\n甘草提取物：舒缓肌肤，使肌肤柔软\n牡丹根提取物：保湿、舒缓、清凉"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face.",
+          "zh": "取适量均匀涂抹于整个面部。"
+        },
+        "content": {
+          "en": "2ml × 10",
+          "zh": "2毫升 × 10支"
+        }
+      }
+    },
+    "high-frequency-cream": {
+      "brand": "OR'JADE",
+      "category": "BODY CARE LINE",
+      "name": "HIGH FREQUENCY CREAM +",
+      "page_title": "High Frequency Cream +",
+      "product_line": "BODY CARE LINE",
+      "slug": "high-frequency-cream",
+      "source_file": "High Frequency Cream +.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Soft cream specialized for high frequency procedure designed to help tone the body line.",
+          "zh": "专为高频护理设计的柔滑面霜，有助于塑造紧致的身体线条。"
+        },
+        "skin_type": {
+          "en": "For high frequency procedure",
+          "zh": "适用于高频仪护理使用"
+        },
+        "main_ingredients": {
+          "en": "• Allantoin: Extracted from the root of comfrey. Soothing\n• Mineral Oil: Moisturizing\n• Angelica Dahurica Root Extract: Soothing, brightening\n• Scutellaria Baicalensis Root Extract: Brightening, firming\n• Parsley Extract: Prevents loss of firmness\n• Seaweed Extract: Softening, moisturizing\n• Kiwi Extract: Firming astringent",
+          "zh": "尿囊素：源自紫草根部，具有舒缓作用\n矿物油：滋润保湿\n白芷根提取物：舒缓与提亮肤色\n黄芩根提取物：亮肤紧致\n欧芹提取物：预防肌肤松弛\n海藻提取物：柔软肌肤并保湿\n奇异果提取物：紧致收敛"
+        },
+        "how_to_use": {
+          "en": "Apply on areas that require high frequency treatment. Wipe off after the procedure.",
+          "zh": "涂抹于需要进行高频护理的部位，护理后擦拭干净。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "collagen-cleansing-lotion": {
+      "brand": "OR'JADE",
+      "category": "COLLAGEN LINE",
+      "name": "COLLAGEN CLEANSING LOTION",
+      "page_title": "Collagen Cleansing Lotion",
+      "product_line": "COLLAGEN LINE",
+      "slug": "collagen-cleansing-lotion",
+      "source_file": "Collagen Cleansing Lotion.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This mild and light-textured cleansing lotion is suitable for all skin types.",
+          "zh": "这款质地温和轻盈的卸妆乳适用于所有肤质。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Allantoin: Skin protection and soothing\n• Panthenol: Moisturizing, nourishing, firming\n• Hydrolyzed Collagen: With excellent skin affinity, it is effectively absorbed into the skin with firming effects\n• Organic Complex Fresh: 5 plant-derived ingredients – Artemisia apiacea, calendula, comfrey, everlasting, and neem leaf extracts – clear up trouble-prone skin and soothe irritation\n• Organic Complex Brightening: 5 plant-derived ingredients – licorice, rhodiola rosea, damask rose, dandelion leaf, and olive leaf extracts – brighten and revitalize dull skin",
+          "zh": "尿囊素：保护肌肤并舒缓\n泛醇：保湿、滋养、紧致\n水解胶原蛋白：高亲肤性，易吸收，具有紧致功效\n有机复合清爽成分：由艾蒿、金盏花、紫草、蜡菊和印度苦楝叶提取物组成，有助于净化问题肌肤并舒缓刺激\n有机复合亮肤成分：由甘草、红景天、大马士革玫瑰、蒲公英叶和橄榄叶提取物组成，提亮并焕活暗沉肌肤"
+        },
+        "how_to_use": {
+          "en": "On dry skin, apply a suitable amount and massage gently to remove makeup and impurities. Wipe off with tissue or water.",
+          "zh": "在干燥肌肤上取适量轻柔按摩，以去除彩妆与杂质。使用纸巾或清水擦拭干净。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "collagen-massage-cream": {
+      "brand": "OR'JADE",
+      "category": "COLLAGEN LINE",
+      "name": "COLLAGEN MASSAGE CREAM",
+      "page_title": "Collagen Massage Cream",
+      "product_line": "COLLAGEN LINE",
+      "slug": "collagen-massage-cream",
+      "source_file": "Collagen Massage Cream.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "Rich in active ingredients, this massage cream revitalizes and nourishes the skin.",
+          "zh": "富含活性成分，这款按摩霜可焕活并滋养肌肤。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Allantoin: Soothing\n• Seaweed Extract: Softening, moisturizing\n• Morus Alba Bark Extract: Soothing, brightening, and moisturizing\n• Scutellaria Baicalensis Root Extract: Brightening\n• Kiwi Extract: Firming\n• Parsley Extract: Prevents loss of firmness\n• Rose Water: Pore-tightening and soothing",
+          "zh": "尿囊素：舒缓肌肤\n海藻提取物：柔软肌肤、保湿滋润\n桑白皮提取物：舒缓、美白、保湿\n黄芩根提取物：亮肤美白\n奇异果提取物：紧致肌肤\n欧芹提取物：防止肌肤松弛\n玫瑰纯露：收缩毛孔、舒缓镇静"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount all over the face. Rub gently for 10–15 mins and wipe off thoroughly.",
+          "zh": "取适量涂抹于面部，轻柔按摩10–15分钟后彻底擦拭干净。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "collagen-skin-lotion": {
+      "brand": "OR'JADE",
+      "category": "COLLAGEN LINE",
+      "name": "COLLAGEN SKIN LOTION",
+      "page_title": "Collagen Skin Lotion",
+      "product_line": "COLLAGEN LINE",
+      "slug": "collagen-skin-lotion",
+      "source_file": "Collagen Skin Lotion.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "This essence-type toner maintains hydration in the skin with rose water and hyaluronic acid for dry skin.",
+          "zh": "这款精华型化妆水富含玫瑰水和透明质酸，帮助干性肌肤维持水分。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Hydrolyzed Collagen: With excellent skin affinity, it is effectively absorbed into the skin with firming effects\n• Aloe Vera Juice: Soothing, moisturizing\n• Rose Mallow Extract: Soothing, moisturizing\n• Malt Extract: Moisturizing and moisture retention\n• Cactus Extract: Moisturizing and nourishing\n• Hyaluronic Acid: Moisturizing by increasing moisture retention in the skin",
+          "zh": "水解胶原蛋白：亲肤性高，易吸收，具有紧致功效\n芦荟汁：舒缓保湿\n锦葵花提取物：舒缓保湿\n麦芽提取物：保湿并锁住水分\n仙人掌提取物：滋润与营养肌肤\n透明质酸：通过增强肌肤的锁水能力实现保湿效果"
+        },
+        "how_to_use": {
+          "en": "Apply a suitable amount on a cotton pad and wipe from the center of the face. You can soak a dry sheet in the toner and use it as a facial mask sheet. Apply the toner between skincare routines to soothe and moisturize the skin.",
+          "zh": "将适量化妆水倒在化妆棉上，由面部中心向外擦拭。也可将面膜纸浸泡于化妆水中作为面膜使用。在护肤程序之间使用，以舒缓并保湿肌肤。"
+        },
+        "content": {
+          "en": "1000ml",
+          "zh": "1000毫升"
+        }
+      }
+    },
+    "aha-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "AHA Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "aha-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Exfoliates and renews skin, smooths texture, evens out tone.",
+          "zh": "温和去角质，改善粗糙，均匀肤色。"
+        },
+        "main_ingredients": {
+          "en": "Purified water, glycerin, sodium hyaluronate, lactic acid, glycolic acid, citric acid, sodium lactate",
+          "zh": "纯净水、甘油、透明质酸钠、乳酸、乙醇酸、柠檬酸、乳酸钠"
+        }
+      }
+    },
+    "azulene-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Azulene Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "azulene-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Soothes and calms sensitive or irritated skin. Reduces redness and supports repair.",
+          "zh": "舒缓敏感肌肤，镇定泛红，帮助修复受损。"
+        },
+        "main_ingredients": {
+          "en": "Aloe vera, allantoin, sodium hyaluronate, azulene extract",
+          "zh": "芦荟、尿囊素、透明质酸钠、蓝甘菊提取物"
+        }
+      }
+    },
+    "dna-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "DNA Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "dna-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Rejuvenates damaged skin, enhances hydration and elasticity.",
+          "zh": "修复肌肤，提升弹性，恢复青春光彩。"
+        },
+        "main_ingredients": {
+          "en": "Purified water, sodium DNA, orange extract, sodium hyaluronate, xanthan gum",
+          "zh": "纯净水、DNA钠、橙子提取物、透明质酸钠、黄原胶"
+        }
+      }
+    },
+    "eye-contour-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Eye Contour Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "eye-contour-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Hydrates, firms, and reduces wrinkles around the eyes. Minimizes dark circles.",
+          "zh": "滋润紧致眼部，淡化黑眼圈与细纹。"
+        },
+        "main_ingredients": {
+          "en": "Eye bright extract, horse chestnut extract, sodium hyaluronate, propylene glycol",
+          "zh": "亮眼提取物、七叶树提取物、透明质酸钠、丙二醇"
+        }
+      }
+    },
+    "fairness-brightening-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Fairness Brightening Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "fairness-brightening-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Reduces pigmentation, brightens and evens skin tone.",
+          "zh": "淡化色斑，提亮肤色，均匀肤色。"
+        },
+        "main_ingredients": {
+          "en": "Cucumber extract, hibiscus extract, morus alba extract, kojic acid, arbutin",
+          "zh": "黄瓜提取物、洛神花提取物、桑白皮提取物、曲酸、熊果苷"
+        }
+      }
+    },
+    "hydrating-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Hydrating Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "hydrating-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Instantly replenishes moisture, softens and smooths skin texture. Ideal for restoring hydration balance.",
+          "zh": "即刻补水，柔软肌肤，恢复水油平衡。"
+        },
+        "main_ingredients": {
+          "en": "Purified water, cucumber extract, hibiscus sabdariffa extract, sodium hyaluronate, grape extract",
+          "zh": "纯净水、黄瓜提取物、洛神花提取物、透明质酸钠、葡萄提取物"
+        }
+      }
+    },
+    "lifting-collagen-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Lifting Collagen Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "lifting-collagen-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Firms and lifts aging skin, reduces wrinkles, strengthens skin structure.",
+          "zh": "紧致提升，改善皱纹，强化肌肤结构。"
+        },
+        "main_ingredients": {
+          "en": "Methylsilanol hydroxyproline aspartate, sodium PCA, collagen, lupine extract",
+          "zh": "甲硅烷醇羟脯氨酸、PCA钠、胶原蛋白、羽扇豆提取物"
+        }
+      }
+    },
+    "oxygen-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Oxygen Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "oxygen-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Prevents aging, repairs skin damage, provides long-lasting hydration.",
+          "zh": "预防老化、修复损伤、持久保湿。"
+        },
+        "main_ingredients": {
+          "en": "Purified water, glycerin, sodium hyaluronate, propylene glycol, ascorbyl phosphate",
+          "zh": "纯净水、甘油、透明质酸钠、丙二醇、抗坏血酸"
+        }
+      }
+    },
+    "purifying-acnex-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Purifying Acnex Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "purifying-acnex-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Regulates oil, reduces acne inflammation, clears blemishes.",
+          "zh": "控油净痘，舒缓炎症，淡化痘印。"
+        },
+        "main_ingredients": {
+          "en": "Glycerin, sodium hyaluronate, niacinamide, panthenol, hydrolyzed yeast protein",
+          "zh": "甘油、透明质酸钠、烟酰胺、泛醇、水解酵母蛋白"
+        }
+      }
+    },
+    "stemcell-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Stemcell Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "stemcell-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Repairs & protects, reduces fine lines, guards against UV.",
+          "zh": "抗老修护，减淡细纹，抵御紫外线。"
+        },
+        "main_ingredients": {
+          "en": "Aqua, glycerin, sodium hyaluronate, propylene glycol, plant stem cell culture extract",
+          "zh": "水、甘油、透明质酸钠、丙二醇、植物干细胞培养物"
+        }
+      }
+    },
+    "vitamin-c-ampoule": {
+      "brand": "B'ETHIQUE",
+      "category": "AMPOULE LINE",
+      "name": "Vitamin C Ampoule",
+      "page_title": "AMPOULES",
+      "product_line": "AMPOULE LINE",
+      "slug": "vitamin-c-ampoule",
+      "source_file": "AMPOULE LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Brightens skin, inhibits melanin, smooths wrinkles, enhances glow.",
+          "zh": "提亮肤色，抑制黑色素，淡纹焕采。"
+        },
+        "main_ingredients": {
+          "en": "Purified water, vitamin C extract, sodium hyaluronate, glycerin, orange extract",
+          "zh": "纯净水、维生素C提取物、透明质酸钠、甘油、橙子提取物"
+        }
+      }
+    },
+    "fairness-brightening-meso-care-serum": {
+      "brand": "B'ETHIQUE",
+      "category": "FAIRNESS BRIGHTENING MESO LINE",
+      "name": "FAIRNESS BRIGHTENING MESO CARE SERUM",
+      "page_title": "FAIRNESS BRIGHTENING MESO CARE SERUM",
+      "product_line": "FAIRNESS BRIGHTENING MESO LINE",
+      "slug": "fairness-brightening-meso-care-serum",
+      "source_file": "FAIRNESS BRIGHTENING MESO CARE SERUM.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A brightening serum designed to safely and gradually lighten skin tone, reduce pigmentation, and restore clarity. Formulated with antioxidants and skin-repairing agents, it helps even out discoloration, improve radiance, and support healthy, luminous skin.",
+          "zh": "B’ethique 亮白精华美塑精华液能温和淡化色斑，提亮肤色，改善暗沉不均。富含抗氧化和修复成分，有效净化肤色，提升肌肤光泽与透明感。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Zinc Stearate\n• Glycerol\n• Mica\n• Macadamia Seed Oil\n• Tocopherol (Vitamin E)\n• Dimethicone",
+          "zh": "锌硬脂酸\n甘油\n云母\n澳洲坚果油\n维生素E\n二甲硅油"
+        },
+        "how_to_use": {
+          "en": "Apply day and night on cleansed skin or during MTS therapy.\nFor professional external use only.",
+          "zh": "每日早晚或用于MTS疗程中，涂抹于清洁后的肌肤。\n仅供专业外用。"
+        },
+        "content": {
+          "en": "5ml / syringe (or as labeled)",
+          "zh": "5毫升 / 支（或依标签）"
+        }
+      }
+    },
+    "anti-wrinkle-and-whitening-gold-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Anti-Wrinkle & Whitening – Gold Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "anti-wrinkle-and-whitening-gold-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Instantly boosts collagen, improves elasticity, brightens complexion.",
+          "zh": "提升胶原蛋白、改善肤色、抗皱亮白。"
+        },
+        "main_ingredients": {
+          "en": "Sodium alginate, vitamin E, diatomite, cornstarch, collagen, hyaluronic acid, gold powder, rose extract",
+          "zh": "海藻酸钠、维生素E、硅藻土、玉米淀粉、胶原蛋白、透明质酸、金粉、玫瑰精油"
+        }
+      }
+    },
+    "brightening-rose-petals-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Brightening – Rose Petals Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "brightening-rose-petals-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Boosts metabolism, whitens and moisturizes.",
+          "zh": "促进代谢、美白保湿。"
+        },
+        "main_ingredients": {
+          "en": "Citrus junos oil, diatomite, cornstarch, sodium alginate, HA",
+          "zh": "柚子精油、硅藻土、玉米淀粉、海藻酸钠、透明质酸"
+        }
+      }
+    },
+    "firming-green-tea-leaf-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Firming – Green Tea Leaf Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "firming-green-tea-leaf-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Promotes regeneration, tightens pores, smooths lines.",
+          "zh": "促进再生、收缩毛孔、抚平细纹。"
+        },
+        "main_ingredients": {
+          "en": "Green tea leaves, diatomite, cornstarch, alginate, witch hazel, mint",
+          "zh": "绿茶叶、硅藻土、玉米淀粉、海藻酸盐、金缕梅、薄荷"
+        }
+      }
+    },
+    "glow-boost-orange-petals-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Glow Boost – Orange Petals Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "glow-boost-orange-petals-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Nourishes and brightens, evens out dull tone, promotes cell turnover.",
+          "zh": "滋养提亮肤色、均匀暗沉肤色、促进细胞新生。"
+        },
+        "main_ingredients": {
+          "en": "Orange flower petals, diatomite, cornstarch, sodium alginate",
+          "zh": "橙花瓣、硅藻土、玉米淀粉、海藻酸钠"
+        }
+      }
+    },
+    "hydrating-hyaluron-nourishing-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Hydrating – Hyaluron Nourishing Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "hydrating-hyaluron-nourishing-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Deeply hydrates and nourishes skin. Ideal for all skin types, especially dry skin.",
+          "zh": "深层补水保湿，增强肌肤营养与保湿。适用于所有肤质，尤其适合干性肌肤。"
+        },
+        "main_ingredients": {
+          "en": "Citrus junos oil, diatomite, cornstarch, sodium alginate, hyaluronic acid",
+          "zh": "柚子精油、硅藻土、玉米淀粉、海藻酸钠、透明质酸"
+        }
+      }
+    },
+    "oil-control-lavender-petals-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Oil Control – Lavender Petals Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "oil-control-lavender-petals-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Reduces acne and blackheads, controls oil production.",
+          "zh": "控油抗痘，平衡皮脂分泌。"
+        },
+        "main_ingredients": {
+          "en": "Lavender petals, aloe, calamine, witch hazel, mint, borneo, alginate",
+          "zh": "薰衣草、芦荟、炉甘石、金缕梅、薄荷、冰片、海藻酸盐"
+        }
+      }
+    },
+    "soothing-chamomile-calming-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "MODELING MASK LINE",
+      "name": "Soothing – Chamomile Calming Mask",
+      "page_title": "FACIAL TREATMENT POWDER MODELING MASK",
+      "product_line": "MODELING MASK LINE",
+      "slug": "soothing-chamomile-calming-mask",
+      "source_file": "MODELING MASK LINE.html",
+      "source_type": "grouped_variant",
+      "descriptions": {
+        "product_features": {
+          "en": "Soothes irritation, repairs damaged skin.",
+          "zh": "舒缓镇定，修复受损肌肤。"
+        },
+        "main_ingredients": {
+          "en": "Chamomile, Chinese witch hazel, liquiritigenin, aloe, alginate",
+          "zh": "洋甘菊、金缕梅提取物、光甘草定、芦荟、藻酸盐"
+        }
+      }
+    },
+    "premium-micro-essence-hyaluronic-silk-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "PREMIUM MICRO ESSENCE HYALURONIC LINE",
+      "name": "PREMIUM MICRO ESSENCE HYALURONIC SILK MASK",
+      "page_title": "PREMIUM MICRO ESSENCE HYALURONIC SILK MASK",
+      "product_line": "PREMIUM MICRO ESSENCE HYALURONIC LINE",
+      "slug": "premium-micro-essence-hyaluronic-silk-mask",
+      "source_file": "PREMIUM MICRO ESSENCE HYALURONIC SILK MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A hydrating silk mask formulated to deeply moisturize, plump, and refine the skin. Infused with pure hyaluronic acid and ocean deep water, it helps reduce fine lines, restore elasticity, and support healthy skin renewal.",
+          "zh": "B’ethique 玻尿酸玻尿酸蚕丝面膜蕴含玻尿酸与海洋深层水，能深层补水，舒缓干燥，改善暗沉。提升肌肤弹性，淡化细纹，使肌肤素滑透亮、焕发健康光采。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Hyaluronic Acid\n• Aloe Extract\n• Vitamin C, Vitamin E\n• Collagen Amino Acids\n• Propylene Glycol, Glycerin",
+          "zh": "玻尿酸\n芦荟提取物\n维生素C、维生素E\n胶原氨基酸\n丙二醇、甘油"
+        },
+        "how_to_use": {
+          "en": "Apply to clean skin after cleansing. Unfold gently and place over face. Remove after 20–30 minutes.\nUse 1–2 times per week.\nFor external use only.",
+          "zh": "洁面后使用，展开面膜贴合面部，静敷20–30分钟后取下。\n建议每周使用1–2次。\n仅供外用。"
+        },
+        "content": {
+          "en": "1 sheet (as labeled)",
+          "zh": "1片装（以标签为准）"
+        }
+      }
+    },
+    "japan-seaweed-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "SEAWEED MASK LINE",
+      "name": "JAPAN SEAWEED MASK",
+      "page_title": "JAPAN SEAWEED MASK",
+      "product_line": "SEAWEED MASK LINE",
+      "slug": "japan-seaweed-mask",
+      "source_file": "JAPAN SEAWEED MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A natural seaweed-infused mask that controls oil, cleanses pores, hydrates, and smooths skin. Rich in minerals and proteins, it helps reduce wrinkles, brighten skin, and enhance elasticity for a radiant, youthful look.",
+          "zh": "海藻面膜是一款富含海藻提取物的天然面膜，可控油清洁毛孔、深层补水、改善粗糙肌肤，使肌肤光滑细腻。其丰富的矿物质和蛋白质有助于减少皱纹、美白提亮，并增强肌肤弹性，让肌肤呈现年轻健康的光泽。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Silk\n• Big-leaf algae (Sargassum Pallidum)\n• Brown algae",
+          "zh": "蚕丝\n大叶海藻\n褐藻"
+        },
+        "how_to_use": {
+          "en": "Soak the mask in rose toner, milk, or pure water for 20 seconds, then apply for 15–20 minutes.",
+          "zh": "将面膜浸泡在玫瑰爽肤水、牛奶或纯净水中20秒，然后敷15–20分钟。"
+        },
+        "content": {
+          "en": "1 sheet mask",
+          "zh": "1片面膜"
+        }
+      }
+    },
+    "100-natural-silk-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "SILK MASK LINE",
+      "name": "100% NATURAL SILK MASK",
+      "page_title": "100% NATURAL SILK MASK",
+      "product_line": "SILK MASK LINE",
+      "slug": "100-natural-silk-mask",
+      "source_file": "100 NATURAL SILK MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A luxurious silk mask infused with collagen, trehalose, and vitamin E to deeply hydrate, repair, and brighten skin. It enhances elasticity, reduces fine lines, and protects against free radicals for a smooth, youthful glow.",
+          "zh": "B'ethique 100% 天然蚕丝面膜富含胶原蛋白、海藻糖和维生素E，深层滋润、修复并提亮肌肤。增强弹性，减少细纹，有效抵御自由基损伤，使肌肤光滑透亮，焕发年轻光彩。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Silk\n• Collagen\n• Trehalose\n• Vitamin E",
+          "zh": "蚕丝\n胶原蛋白\n海藻糖\n维生素 E"
+        },
+        "how_to_use": {
+          "en": "Apply the mask to a clean face, leave for 20–30 minutes, then remove and gently massage the remaining essence into the skin.",
+          "zh": "将面膜敷于清洁后的肌肤，静敷20–30分钟后取下，轻柔按摩残余精华至吸收。"
+        },
+        "content": {
+          "en": "1 sheet mask",
+          "zh": "1片面膜"
+        }
+      }
+    },
+    "ultra-lifting-mask": {
+      "brand": "B'ETHIQUE",
+      "category": "ULTRA LIFTING LINE",
+      "name": "ULTRA LIFTING MASK",
+      "page_title": "ULTRA LIFTING MASK",
+      "product_line": "ULTRA LIFTING LINE",
+      "slug": "ultra-lifting-mask",
+      "source_file": "ULTRA LIFTING MASK.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A gauze-type mask infused with Sea Porphyridiales extract to boost circulation, tighten muscles, and refine contours, delivering a firming and whitening effect.",
+          "zh": "种纱布型面膜，富含紫球藻提取物，可促进血液循环、紧致肌肉、塑造轮廓，带来紧致和美白效果。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Arbutin whitening cream\n• Egg white collagen cream\n• Calcium carbonate\n• Plant fibers\n• Deionized water",
+          "zh": "熊果苷美白膏\n蛋清胶原蛋白霜\n碳酸钙\n植物纤维\n去离子水"
+        },
+        "how_to_use": {
+          "en": "Apply to desired areas such as thighs, belly, or arms to tighten and firm.",
+          "zh": "适用于瘦腿、瘦腹、紧致手臂等部位。"
+        },
+        "content": {
+          "en": "1 sheet mask",
+          "zh": "1片面膜"
+        }
+      }
+    },
+    "water-meso-therapy-filler": {
+      "brand": "B'ETHIQUE",
+      "category": "WATER MESO-THERAPY LINE",
+      "name": "WATER MESO-THERAPY FILLER",
+      "page_title": "WATER MESO-THERAPY FILLER",
+      "product_line": "WATER MESO-THERAPY LINE",
+      "slug": "water-meso-therapy-filler",
+      "source_file": "WATER MESO-THERAPY FILLER.html",
+      "source_type": "detail_page",
+      "descriptions": {
+        "product_features": {
+          "en": "A powerful hydrating filler enriched with Triple Hyaluronic Acid and growth factors to deeply moisturize, repair, and rejuvenate the skin. It refines pores, enhances elasticity, and reduces fine lines for a radiant, youthful glow.",
+          "zh": "B’ethique 水光疗法填充精华富含三重透明质酸和生长因子，深层补水、修复并焕活肌肤。收缩毛孔，增强弹性，减少细纹，使肌肤焕发年轻光彩。"
+        },
+        "skin_type": {
+          "en": "All skin types",
+          "zh": "所有肤质"
+        },
+        "main_ingredients": {
+          "en": "• Hyaluronic Acid\n• Peptides\n• Arbutin\n• Yeast Extract\n• Licorice Extract\n• Allantoin\n• Witch Hazel Extract",
+          "zh": "透明质酸\n肽\n熊果苷\n酵母提取物\n甘草提取物\n尿囊素\n金缕梅提取物"
+        },
+        "how_to_use": {
+          "en": "Apply evenly on cleansed skin and massage gently until fully absorbed.\nFor professional external use only.",
+          "zh": "将精华均匀涂抹于清洁后的肌肤，轻柔按摩至完全吸收。\n仅供专业外用。"
+        },
+        "content": {
+          "en": "5ml / syringe (or as labeled)",
+          "zh": "5毫升 / 支（或依标签）"
+        }
+      }
+    }
+  }
+}

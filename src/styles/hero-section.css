@@ -1,0 +1,4 @@
+.hero-section {
+  height: 350vh; /* Scroll distance for the hero animation */
+  position: relative;
+}
